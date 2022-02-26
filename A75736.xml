@@ -1,0 +1,956 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The work of the age: or, the sealed prophecies of Daniel opened and applied. VVherein is plainly proved that all the governments in the world, except the government of Christ, are but images, or parts of Nebuchadnezzars image, and shall be suddenly broken in pieces by the little stone cut out of the mountain without hand: together with the means how Christ will effect all this. Shewing also that image-government, and image-worship have always been companions. Explaining likewise Daniels mystical numbers, and discovering some misprisions about the little horn, both in the translation and application of the same. Amending sundry places in our common translation, and clearing some chronological points from the common errours. / By William Aspinwall.</title>
+            <author>Aspinwall, William, fl. 1648-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 153 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75736</idno>
+            <idno type="STC">Wing A4010</idno>
+            <idno type="STC">Thomason E832_1</idno>
+            <idno type="STC">ESTC R207510</idno>
+            <idno type="EEBO-CITATION">99866555</idno>
+            <idno type="PROQUEST">99866555</idno>
+            <idno type="VID">118831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118831)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E832[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The work of the age: or, the sealed prophecies of Daniel opened and applied. VVherein is plainly proved that all the governments in the world, except the government of Christ, are but images, or parts of Nebuchadnezzars image, and shall be suddenly broken in pieces by the little stone cut out of the mountain without hand: together with the means how Christ will effect all this. Shewing also that image-government, and image-worship have always been companions. Explaining likewise Daniels mystical numbers, and discovering some misprisions about the little horn, both in the translation and application of the same. Amending sundry places in our common translation, and clearing some chronological points from the common errours. / By William Aspinwall.</title>
+                  <author>Aspinwall, William, fl. 1648-1662.</author>
+               </titleStmt>
+               <extent>[4], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for Livewell Chapman, and are to be sold at the sign of the Crown in Popes-head Alley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Daniel --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118831:1" rendition="simple:additions"/>
+            <p>THE Work of the Age: OR, The ſealed Prophecies of DANIEL opened and applied.</p>
+            <p>VVherein is plainly proved that all the Go<g ref="char:EOLhyphen"/>vernments in the World, except the Government of Chriſt, are but Images, or parts of <hi>Nebuchadnezzars</hi> Image, and ſhall be ſuddenly broken in peices by the little Stone cut out of the Mountain without hand: Together with the means how Chriſt will effect all this.</p>
+            <p>Shewing alſo that Image-Government, and Image-Worſhip have always been Companions.</p>
+            <p>Explaining likewiſe <hi>Daniels</hi> myſtical Numbers, and diſcovering ſome Miſpriſions about the Little Horn, both in the Tranſlation and Application of the ſame.</p>
+            <p>Amending ſundry places in our Common Tranſlation, and clearing ſome Chronological points from the common errours.</p>
+            <p>By <hi>WILLIAM ASPINWALL.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. I.</hi> for <hi>Livewell Chapman,</hi> and are to be ſold at the Sign of the Crown in Popeſ-head Alley. 1655.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:118831:2"/>
+            <pb facs="tcp:118831:2"/>
+            <head>The Preface.</head>
+            <p>
+               <hi>MOſes</hi> thought it uncomely for <hi>Hebrews</hi> and follow Brethren to ſtrive together, <hi>Exod.</hi> 2. 13. And when <hi>Joſeph</hi> diſmiſ<g ref="char:EOLhyphen"/>ſed his Brethren, and ſent them back to <hi>Canaan</hi> to his Fa<g ref="char:EOLhyphen"/>ther, he impoſed this charge upon them, <hi>See yee fall not out by the way,</hi> Gen. 45. 24. So me thinks it ill becomes Chriſtians, and Co-witneſſes for Chriſt to bandy Argu<g ref="char:EOLhyphen"/>ments, as men toſſe Balls forward and backward, drawing black lines one upon another, as if they did fearfully and ſhamefully ſtretch both the text, and reaſon, if they diſſent from what is held forth by them. This ſavours not of a Spirit of Chriſt, it is not the language of <hi>Canaan.</hi> Wee may reſt our ſelves ſatisfied, when we have born witneſs to the <hi>truth,</hi> and held forth the <hi>light</hi> we have received. <hi>For this end was I born, and for this cauſe came</hi> I <hi>into the world to bear witneſs to the truth,</hi> Joh. 18. 37. This was Chriſts work, and it ſhould be ours alſo. It is the nature of <hi>Light</hi> to expel <hi>Darkneſs.</hi> We ſhall need to do no more, but hold forth the word of truth, with as much clearneſs as we can, and apply all other interpretations thereunto, and it will appear what is <hi>ſtrait,</hi> and what is <hi>crooked.</hi> For, <hi>Rectum eſt index ſui &amp; obliqui.</hi> And truly if we paſs theſe limits, it is a thouſand to one that inſtead of bear<g ref="char:EOLhyphen"/>ing witneſs to the truth, wee ſhall bear witneſs againſt ſome truth or other.</p>
+            <p>We may poſſibly with miſtaken Arguments beget Diſciples to <hi>our ſelves,</hi> but ſeldom or never (with ſuch Carnal weapons) ſhall we beget Diſciples unto <hi>Chriſt,</hi> or to his <hi>Truth.</hi> The Sun hath no need of Candles, or other ad<g ref="char:EOLhyphen"/>ventitious lights, to inlighten the ſame, or to augment the light thereof. Let us hold forth the truth with all clearneſs, and if any thing be obſcure (in re<g ref="char:EOLhyphen"/>gard of the <hi>Dialect,</hi> wherein it was originally written) let it be our care, with all faithfulneſs, to explain the ſame; and leave it to the bleſſing of God <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Gen. 2</hi>
+               </note> to perſwade, and to the breathings of the Spirit (whoſe office it is) to <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> convince, <hi>Job.</hi> 16. 8. Which were it duly attended unto, would ſpare a great deal of precious time, and tedious writing, which many times is fruit<g ref="char:EOLhyphen"/>leſly ſpent in Anſwers and Replies, that tend little to the honour of Chriſt, or the advantage of his Cauſe.</p>
+            <p>I know it often fares with Chriſtians as with little Children, that make haſte to their Father; ſometimes they catch a fall, or a knock. <hi>Peter</hi> though he was moſt <hi>reſolved,</hi> and moſt forward, fell fouleſt. And if we look narrow<g ref="char:EOLhyphen"/>ly into the matter, we ſhall ordinarily eſpy a ſpice of <hi>Spiritual pride,</hi> as well as a ſtrong affection to our Lord and Maſter, ſecretly <hi>couchant</hi> under our preci<g ref="char:EOLhyphen"/>pitancy and prefidence of ſpirit. Whereby it now and then comes to paſs
+<pb facs="tcp:118831:3"/> that we write crooked, or walk crooked, and beſides our rule.</p>
+            <p>The advice therefore which I would give to others, which alſo I deſire to take my ſelf, is briefly this. Let us lye low before the Lord, in all our ſtudies, and inquiries into the holy Counſels of God, eſpecially theſe myſtical Scriptures, and ſeriouſly weigh every word, and every IOTA in the text, comparing Scripture with Scripture. <hi>For holy men of God</hi> ſpake, (and writ) <hi>as they were acted by the holy Spirit,</hi> 2 Pet. 1. 21. And the Lord keep our ſpiri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s humble. For, <hi>God will teach the humble his way,</hi> Pſal. 25. 8. The Apoſtles ad<g ref="char:EOLhyphen"/>vice is ſingularly uſeful in this caſe, <hi>Let each eſteem other better than themſelves, Phil.</hi> 2. 3. And in all our explications of dark and Prophetical <hi>Scriptures,</hi> let there run through all the veins thereof a ſpirit of <hi>love,</hi> and <hi>Self-denial.</hi> Not in word alone, but in deed, and in truth; for oftentimes there lyes much of <hi>Self,</hi> ſecretly hidden under <hi>verbal Self-denial.</hi> This in ſumme is the advice I would give to others, and to my ſelf alſo. Let me only adde a word more by way of <hi>Cau<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on,</hi> when we come to treat of <hi>ſealed Propheſies,</hi> ſuch as Chriſt hath com<g ref="char:EOLhyphen"/>manded to ſeal until the time of the end (a). Take heed of ingaging too far,<note place="margin">Of which <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>Daniels</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phecies are, Maſter <hi>Til<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghaſt</hi> well ſerves, p. 157 <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> and beware of pre-occupating Chriſt in opening the Seals, leſt we diſcover our own nakedneſs, and out live our own interpretations. Stay we but a lit<g ref="char:EOLhyphen"/>tle, till Chriſt in a way of Providence open the <hi>Seal,</hi> and then wee may with ſafety make particular applications of ſuch Prophetical Scriptures; as we ſee the Saints of old have done, in applying that which is written of the <hi>Little Horn</hi> (as it is called) <hi>Dan.</hi> 8, 9. 25. unto <hi>Antiochus Epiphanes.</hi> To which end you may read the Story of the <hi>Maccabees, Joſephus,</hi> and others. In like manner, I doubt not but the <hi>Little Horn,</hi> Dan. 7. 8. may rightly, and without injury to the truth, be applied to <hi>Charls Stuart</hi> the late King. For as much as there are ſo many remarkable Characters which Chriſt in a pro<g ref="char:EOLhyphen"/>vidential way hath delineated<g ref="char:punc">▪</g> even to the very laſt ſtroke as I may ſay, which are applicable all of them unto <hi>Charls Stuart,</hi> and cannot ſuitably bee accommodated unto any other of the Ten Horns beſides him, as I ſuppoſe. But I ſhall ſpeak more fully of that, when I come to treat of that <hi>Little Horn,</hi> the Lord aſſiſting. Weigh therefore and conſider what is written, and the Lord give a right underſtanding in all things.</p>
+            <closer>
+               <dateline>Sixth Month (commonly called <date>
+                     <hi>Febr.</hi>) 1655.</date>
+               </dateline>
+               <signed>WILLIAM ASPINWALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118831:3"/>
+            <head>
+               <hi>Daniels</hi> Prophecies in the 2, 7, 8, 9, and the 11th. Chapters, unſealed and opened, in ſome brief exercitations upon thoſe Chapters.</head>
+            <epigraph>
+               <bibl>DANIEL II.</bibl>
+               <q>
+                  <p>Verſ. 31. <hi>Thou O King, was contemplating, and behold one great Image, this Image which was ſo great<g ref="char:punc">▪</g> and his bright<g ref="char:EOLhyphen"/>neſs excellent, was ſtanding before thee<g ref="char:punc">▪</g> and the ſight thereof terrible.</hi>
+                  </p>
+                  <p>32 <hi>This Image, the head of it was good gold<g ref="char:punc">▪</g> his breaſt and his arms of ſilver: his</hi> 
+                     <note n="II" place="margin">Or Bowels,</note> 
+                     <hi>belly and his</hi> 
+                     <note n="*" place="margin">Or Side.</note> 
+                     <hi>thigh of braſs.</hi>
+                  </p>
+                  <p>33 <hi>His leggs of iron: his feet [part</hi>] <note n="a" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them of iron, and [part</hi>] <note n="b" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them of clay.</hi>
+                  </p>
+                  <p>34 <hi>Thou was contemplating, until a ſtone (but not with hands) was cut out, and it ſmote the Image upon his feet of iron and clay: and brake them in peeces.</hi>
+                  </p>
+                  <p>35 <hi>Then were broken in peeces (as one) the iron, the clay, the braſs, the ſilver, and the gold, and they became as the chaffe of the Summer threſhing-floors, and the wind carried them away, that no place of them was found; and the ſtone that ſmote the Image became a great Mountain, and filled all the earth.</hi>
+                  </p>
+                  <p>36 <hi>This is the Dream, and wee will tell the interpretation thereof, before the King.</hi>
+                  </p>
+                  <p>37 <hi>Thou O King [art] a King of Kings: that the God of Heaven hath given to thee a Kingdom, Power, Strength, and Glory.</hi>
+                  </p>
+                  <p>38 <hi>And every where that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he children of men are dwelling, the Beaſt of the field, and the Fowl of Heaven hath he gi<g ref="char:EOLhyphen"/>ven into thine hand, and hath made thee ruler over them all; thou art he, the head of it, that is of gold.</hi>
+                  </p>
+                  <pb n="2" facs="tcp:118831:4"/>
+                  <p>39 <hi>And after thee ſhall ariſe another Kingdom (the land in<g ref="char:EOLhyphen"/>feriour in compariſon of thee) and another third Kingdom of braſs, which ſhall bear rule in all the earth.</hi>
+                  </p>
+                  <p>40 <hi>And the Fourth Kingdom ſhall bee ſtrong as iron: for as much as iron doth break in peeces, and ſubdueth all things, and (as iron that breaketh all theſe) ſhall it break in peeces and bruiſe.</hi>
+                  </p>
+                  <p>41 <hi>And whereas thou didst contemplate the feet and the toes, [part</hi>] <note n="c" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them of Potters clay, and [part</hi>] <note n="d" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them iron, the Kingdom ſhall be divided, but there ſhall be in it of the ſtrength of the iron: for as much as thou didſt behold the iron mixing with mirie clay.</hi>
+                  </p>
+                  <p>42 <hi>And the toes of the feet [were part</hi>] <note n="e" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them iron, and [part</hi>] <note n="f" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>of them clay; in part the Kingdom ſhall be ſtrong,</hi> 
+                     <note n="g" place="margin">Chald. of it.</note> 
+                     <hi>and in part<g ref="char:punc">▪</g> ſhall be broken.</hi>
+                  </p>
+                  <p>43 <hi>In that thou didſt behold the iron mixing it ſelf with mirie clay, they ſhall mixe themſelves with the ſeed of men, but they ſhall not cleave this with that; even as iron cannot bee mixed with clay.</hi>
+                  </p>
+                  <p>44 <hi>And in the days of them (of theſe Kings) ſhall the God of Heaven cauſe to ariſe a Kingdom that ſhall never be de<g ref="char:EOLhyphen"/>ſtroyed, and the Kingdom thereof ſhall not be left to other people: it ſhall break in peeces and conſume all theſe King<g ref="char:EOLhyphen"/>doms, and it ſhall ſtand for ever.</hi>
+                  </p>
+                  <p>45 <hi>For as much as thou didſt contemplate that the ſtone was cut out of the Mountain (but not with hands) and it brake in peeces the iron, the braſs, the clay, the ſilver, and the gold, the great God doth make it known to the King what ſhall be after this: and the dream is certain, and the interpretation thereof faithful.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>Ow ere I come to the explication of theſe enſu<g ref="char:EOLhyphen"/>ing Prophecies and Viſions, let mee premiſe theſe few things to be conſidered.</p>
+            <p>There be ſome Prophecies in Scripture that are <hi>ſealed</hi> by a Divine decree or command, as it is written, <hi>Dan. 12. 4. But thou O</hi> Daniel, <hi>ſhut up the words, and ſeal the Book, even to the time of the end.</hi>
+               <pb n="3" facs="tcp:118831:4"/> And <hi>Rev. 5. 1. I ſaw in the right hand of him that ſate on the Throne, a Book written within, and on the back ſide, ſealed with ſeven Seals.</hi> Though they bee written in the <hi>Mother Tongue,</hi> as I may ſay, and the words intelligible, yet they are ſealed.</p>
+            <p>Now that I may expreſs my ſelf briefly, yet plainly as I can, to the meaneſt capacity, let me propoſe theſe few Queſtions, with their Anſwers.</p>
+            <p>
+               <hi>Queſt.</hi> 1. What is the <hi>Seal,</hi> whereby God is wont to Seal? that is, to ratifie, and yet to conceal his holy Councels?</p>
+            <p>
+               <hi>Q.</hi> 2. What are the ingravings of this <hi>Seal?</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 3. Whar is the <hi>effigies,</hi> or impreſſion made by this <hi>Seal?</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 4. What is meant by the <hi>Book,</hi> or writing ſealed?</p>
+            <p>
+               <hi>Q.</hi> 5. How, or after what manner doth God ſeal this Book?</p>
+            <p>
+               <hi>Q.</hi> 6. How doth Chriſt open the Seals?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> To the firſt I anſwer, That the Holy Spirit of God is the <hi>Seal,</hi> for ſo he is called, <hi>Epheſ.</hi> 1. 3. and God uſeth no <hi>Seal</hi> but this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> To the Second I anſwer, That the ingravings of this <hi>Seal</hi> (as I may ſpeak) are the ſecret Counſels of God, which are known only to the Spirit of God, and by him revealed to us, as it is written, 1 <hi>Cor.</hi> 2. 10, 11. But <hi>God hath revealed them to us by his Spirit; for the Spirit ſearcheth all things, yea the deep things of God. For what man knoweth the things of a man, ſave the ſpirit of man which is in him? Even ſo the things of God knoweth no man, but the Spirit of God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> To the Third I anſwer, That the written Word of God, and the holy Councel of God revealed therein, is the <hi>effigies,</hi> or impreſſion made by this Seal; <hi>For holy men of God ſpake as they were acted by the holy Spirit,</hi> 2 Pet. 1. 21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>4</label> To the Fourth I anſwer, That the <hi>Book ſealed</hi> is the Book of Providence, wherein is portrayed (as I may ſay) in a moſt live<g ref="char:EOLhyphen"/>ly manner, the perſons and things, with ſuch diſtinguiſhing Cha<g ref="char:EOLhyphen"/>racters and Marks, as do exactly anſwer the minde and Counſel of God revealed in his Word, as appears by the opening of the Seals, <hi>Rev.</hi> 6.</p>
+            <pb n="4" facs="tcp:118831:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. 5. </seg>
+               </label> To the Fifth I anſwer, That the ſpirit of God; ſeales the writing, by expreſſing himſelf under<g ref="char:punc">▪</g> ſuch darke repreſentati<g ref="char:EOLhyphen"/>ons, Hierogliphicks, and metaphors, as it paſſeth all humane and angelicall capacities<g ref="char:punc">▪</g> to make a perfect and particular appli<g ref="char:EOLhyphen"/>cation thereof, untill Chriſt Jeſus the Lyon of the tribe of <hi>Judah (who only is worthy to open the book and unlooſe the ſeals, Rev.</hi> 5. 5. 12) do in a way of providence firſt break open the Seals. And then wee may be capable to diſcern the perfect Har<g ref="char:EOLhyphen"/>mony, that is betwixt the Prophecies, and the perſons there deſ<g ref="char:EOLhyphen"/>cribed and not til then.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>6</label> To the laſt I anſwer. That Chriſt opens the Seals, by produ<g ref="char:EOLhyphen"/>cing the perſons intended, to <hi>Act</hi> in a providentiall way, accor<g ref="char:EOLhyphen"/>ding to the eternall Counſell of his Father, revealed in his word. Which is called the <hi>Decrees-bringing-forth, Zeph.</hi> 2. 2<g ref="char:punc">▪</g> And I may (not unfitly) call it a providentiall deſcription, or exem<g ref="char:EOLhyphen"/>plification of his Fathers Counſells. Thus Chriſt breaks open the <hi>Seal,</hi> and then if wee have ſpirituall eyes, wee may diſcerne each lineament or ingraveing of the <hi>Seal</hi> (imprinted as it were upon wax or clay) anſwering line to line exactly. Vntil which be done, yea, til Chriſt beginne to draw out the laſt line or cha<g ref="char:EOLhyphen"/>racter, wee ſhall not be able to make particular Application of ſuch <hi>Sealed Prophecies.</hi> Wherefore I durſt not attempt to make particular application of that <hi>litle horn</hi> in the ſeventh of <hi>Daniel,</hi> unto <hi>Charls Stuart</hi> the late King, t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Chriſt had<g ref="char:punc">▪</g> firſt be<g ref="char:EOLhyphen"/>gunne to draw out the laſt line or Character, in a way of provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>Thus I have given you the <hi>ſumme</hi> of my thoughts, touching <hi>Sealed</hi> prophecies, as briefly and as plainly as I could. Let mee only add this word of <hi>Caution</hi> more. That <hi>Keyes</hi> were never ordained to open <hi>Seals.</hi> Wherefore ſince the wiſdome of God<g ref="char:punc">▪</g> ſaw it not good, to ſet <hi>Looks</hi> upon Prophecies, but <hi>Seals:</hi> and ſince none hath prevailed<g ref="char:punc">▪</g> nor was judged worthy to open theſe <hi>Sealed Books,</hi> but the <hi>Lamb:</hi> Let us wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with faith and patience till Chriſt open the <hi>Book</hi> and then wee ſhall ſee him de<g ref="char:EOLhyphen"/>lineate the perſons and things (intended) in the <hi>Actings</hi> of his providence. And ſo doing, wee ſhall neither be deceived our ſelves, nor miſ-lead others. For which end it is that I have thus opened my ſelf<g ref="char:punc">▪</g> in theſe poor broken expreſſions, ere I proceed
+<pb n="5" facs="tcp:118831:5"/> to the unfolding of <hi>Daniels</hi> Prophecies. Intending to ſpeak briefly, to thoſe Prophecies only, which are already accom<g ref="char:EOLhyphen"/>pliſhed, or in accompliſhing; and ſhall proceed no further than Chriſt hath gone before mee in the <hi>Actings</hi> of his Providence. This being premiſed, I ſhall briefly come to ſpeak of thoſe Pro<g ref="char:EOLhyphen"/>phecies which are <hi>unſealed,</hi> and firſt of this Dream or Viſion of <hi>Nebuchadnezzer.</hi>
+            </p>
+            <div type="part">
+               <head>The Explication. <hi>Dan.</hi> 2. 31.</head>
+               <p>31. Verſ. <hi>One great Image.</hi>] It is very remarkable, that in this Dream, God repreſents to <hi>Nebuchadnezzar,</hi> the true and proper nature of <hi>all earthly formes</hi> of Government, which ſhould be in the world, during the time of the four great <hi>Mo<g ref="char:EOLhyphen"/>narchies</hi> (after <hi>Nebuchadnezzar</hi> had demoliſhed that Go<g ref="char:EOLhyphen"/>vernment which was of Chriſts own inſtitution, untill the time that he would reſtore the ſame, and deliver the Kingdome and greatneſſe thereof unto the Saints of the <hi>moſt high</hi>) under the repreſentation of an <note n="h" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Signifies any form or figure which we make or fan<g ref="char:EOLhyphen"/>cy to our ſelves. An in<g ref="char:EOLhyphen"/>vention of our own, or accor<g ref="char:EOLhyphen"/>ding to our own minds.</note> IMAGE, even the <hi>Image of a Man.</hi> Which doth denote unto us thus much; that all the governments inſtituted and erected in the world (under theſe four Monarchies) by men or by humane policy, ever ſince the <hi>Government</hi> of Chriſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own inſtitution was laid aſide, even to the time of the <note n="i" place="margin">Acts 3. 21.</note> reſtitution thereof, are in Gods account, but very <hi>Images,</hi> or all of them put together, do but make up this <hi>one Image,</hi> as it is here called. And though I cannot ſay theſe <hi>Images</hi> and Formes of Government of mens deviſing, are thoſe <hi>Images</hi> for<g ref="char:EOLhyphen"/>bidden in the ſecond command (for the word is not the ſame, nor do civil formes of Government imediatly concern the wor<g ref="char:EOLhyphen"/>ſhip of God,) yet this is obſervable, that in the next chapter, <hi>Nebuchadnezzar</hi> frames to himſelf a <hi>Golden Image,</hi> for di<g ref="char:EOLhyphen"/>vine worſhip, Semblable thereunto. Which hath ever ſince been the wofull <hi>Concomitant,</hi> and bitter fruit or reſult of ſuch <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mage <hi>Government.</hi> Wherefore <hi>Paul</hi> taking notice hereof,
+<pb n="6" facs="tcp:118831:6"/> that it hath been the conſtant practiſe of <hi>Gentile</hi> Nations, to modle their Divine Worſhip, and Church Adminiſtrations, ac<g ref="char:EOLhyphen"/>cording to the form of their Civil Governments, he advertiſeth the Romans, <hi>not to be conformed to the world,</hi> Rom. 12. 2. His meaning is, (as Mr. <hi>Cotton</hi> hath often obſerved) he would not have the <hi>Saints</hi> in <hi>Rome</hi> to modle their Churches, and Church-Adminiſtrations, according to the Pattern of the <hi>Roman</hi> Civil Power. This IMAGE is here called <note n="k" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>one Image</hi>] although it comprehended all the Four great Monarchies and Kingdoms under it. To ſhew, that all of them are but parts of this <hi>one Image.</hi> And their Governments are but <hi>Image-Govern<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Now the Characters of this IMAGE are theſe four.</p>
+               <p n="1">1 <hi>It was ſo great</hi>] to wit, it comprehended the Four Mo<g ref="char:EOLhyphen"/>narchies, or Kingdoms, as it is interpreted, Verſe thirty eight, thirty nine, forty.</p>
+               <p n="2">2 It is deſcribed by the outward <hi>Pomp</hi> and <hi>Splendor,</hi> not only of the Head, but all the parts of it; <hi>his ſplendor or brightneſs excellent.</hi>] And this is a common Character of all the Four Monarchies and Kingdoms under them, they all affect worldly pomp and glory.</p>
+               <p n="3">3 It is ſaid to ſtand <hi>before him,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which imports the acceptance that this <hi>Image-Government</hi> found in the hearts of all the Kings and Monarchs. And ſo the word is uſed, <hi>Pſal.</hi> 1. 5. to ſtand with acceptance. And this ſhews the complacency and con<g ref="char:EOLhyphen"/>tent they take both in their pomp and ſplendor, and in the Go<g ref="char:EOLhyphen"/>vernment new Modelled by them. This is the Third Cha<g ref="char:EOLhyphen"/>racter.</p>
+               <p n="4">4 This <hi>Image</hi> is deſcribed by the <hi>Tyrannical</hi> ſpirit, that appears in all of them, from the firſt to the laſt, from the higheſt to the loweſt; <hi>His viſage</hi> 
+                  <note n="l" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>terrible,</hi>] dreadful, or formi<g ref="char:EOLhyphen"/>dable. This is not here put for a Character of the <hi>Little Horn, Dan.</hi> 7. but for a common Character of the great IMAGE, and all the Four Monarchies comprized therein, and the ſeveral King<g ref="char:EOLhyphen"/>doms appertaining thereunto; and this ever hath been, and ever will be the cloſe of all <hi>Image-Government</hi> of mens deviſing; <hi>Terrour</hi> and Tyranny are indelible and inſeparable Characters of all worldly Governments whatſoever. Pleaſing indeed are their
+<pb n="7" facs="tcp:118831:6"/> new deviſed Governments to themſelves, as was ſhewed before elſe they would not indure that they ſhould <hi>ſtand before them.</hi> But terrible, dreadful, and tyrannical are they to others that can<g ref="char:EOLhyphen"/>not comply with them, nor fall down and worſhip them. Theſe are the Four Characters which are common to all the Four Mo<g ref="char:EOLhyphen"/>narchies, and the parts thereof, and they are true of the whole I<g ref="char:EOLhyphen"/>mage, and every part thereof.</p>
+               <p>The next thing remarkable in this IMAGE, or Image-Government<note place="margin">Verſ. 32.</note> is, the progreſs they make from <hi>evil</hi> to <hi>worſe,</hi> they are always beſt at firſt; At firſt they are <hi>good gold</hi>] they themſelves pretend ſo, and many others think ſo. And compa<g ref="char:EOLhyphen"/>ratively they may be called good gold, becauſe their <hi>Actions</hi> at their firſt riſing are more <hi>juſt and righteous,</hi> than afterwards they prove to be. A kinde of neceſſity putting them upon it, that they may ingratiate themſelves, and their New Image with the people. And it is moſt natural, that the <hi>Head,</hi> which is the moſt noble part, ſhould firſt be brought forth, but this continues not long. The durance of the <hi>Babylonian</hi> Monarchy, or <hi>head of Gold</hi> was but ſeventy years; the ſpecial Character of this Monarchy is the unity of it, in which reſpect it is called the <hi>Head,</hi> which is but one.</p>
+               <p>In the next place it degenerates from Gold to <hi>Silver,</hi> which is a Mettal of a baſer alloy; and this is interpreted, <hi>verſ.</hi> 39. of a<g ref="char:EOLhyphen"/>nother Kingdom and Government ſucceeding the <hi>Babylonian,</hi> and <hi>inferiour to it.</hi> This Government for the nature was meaner, and baſer, more formidable, and obnoxious to the Church of Chriſt, but of longer durance, and ſo was the <hi>Perſian</hi> Monarchy. The Character of this Monarchy is <hi>Union</hi> and <hi>Diviſion</hi> toge<g ref="char:EOLhyphen"/>ther, it is one Breaſt, but two Arms, <hi>Medes</hi> and <hi>Perſians Dan.</hi> 6. 8.</p>
+               <p>Thirdly, from Silver it becomes Braſs, which ſhews the <hi>worſ<g ref="char:EOLhyphen"/>neſs</hi> of the Third, or <hi>Graecian</hi> Monarchy, which more bitterly infeſted the <hi>Jews</hi> with Warres, and ſet up the abomination of deſolation, as <hi>Daniel</hi> ſhews at large in his eighth Chapter. The diviſion of this Monarchy is expreſſed when he ſaith, <hi>his Thigh of Braſs.</hi>] He doth not ſay, <hi>thighes</hi> of Braſs, for that would imply only a two-fold diviſion of <hi>Alexanders</hi> Succeſſors, which was Four-fold, <hi>Dan.</hi> 8. 22. but he ſaith, <hi>its thigh of braſs,</hi> to
+<pb n="8" facs="tcp:118831:7"/> intimate that one of <hi>Alexanders</hi> Succeſſors ſhould prove very <hi>infence</hi> againſt the <hi>Jews</hi> the people of God, as <hi>Antiochus E<g ref="char:EOLhyphen"/>piphanes</hi> in more eſpecial manner was. This Monarchy as it is baſer for the original of it, ſo it is longer for continuance then the <hi>Perſian</hi> Monarchy.</p>
+               <p>In the Fourth and laſt place this Image degenerates under the<note place="margin">Verſ. 33.</note> Fourth Kingdom, or Monarchy, unto <hi>Iron Leggs,</hi> and then into <hi>feet and toes, part Iron, part Clay.</hi> The ſpecial Characters here given of this Fourth Monarchy are theſe three.</p>
+               <p n="1">1 Its diviſion into two parts, <hi>his Leggs of Iron.</hi>] And this expreſſeth the diviſion of the Empire after <hi>Conſtantine</hi> the Great into the Eaſtern and Weſtern Monarchy.</p>
+               <p n="2">2 The diviſion of this Monarchy into Ten toes, or Ten King<g ref="char:EOLhyphen"/>doms, which is another Character whereby this Fourth King<g ref="char:EOLhyphen"/>dom is deciphered, and diſtinguiſhed from the other fore-going Monarchies.</p>
+               <p n="3">3 This Fourth Monarchy is differenced from the reſt by the mixture of ſtrength, and weakneſs, in all the Ten conſtituting parts of this Monarchy. <hi>They are part Iron, part Clay.] I<g ref="char:EOLhyphen"/>ron</hi> expreſſeth <hi>ſtrength,</hi> or <hi>prevalency,</hi> and clay, or <hi>Potters clay</hi> expreſſeth the <hi>fragility</hi> of this Monarchy, after its ten-fold Diviſion, verſ. 42. or the capacity it ſtands in to be broken, in regard of its compoſition of ſuch Heterogeneal parts, the one be<g ref="char:EOLhyphen"/>ing fit to break the other into peeces, as it is written, <hi>Pſal. 2. 9. Thou ſhalt break them with a rod of iron, thou ſhalt daſh them in peeces like a Potters veſſel.</hi> So that by Iron thus inter<g ref="char:EOLhyphen"/>preted I underſtand the Godly part in theſe Nations, which at length ſhall break down all <hi>Image-Government</hi> in all the Ten Nations, that will not ſubmit to Chriſt, they ſhall break them as a Potters Veſſel is broken, never to be peiced more. Yet be<g ref="char:EOLhyphen"/>fore that time, this Iron part, or better part <hi>will mixe them<g ref="char:EOLhyphen"/>ſelves with the ſeed of men,</hi> verſe 43. They will make <note n="m" place="margin">Gen. 6. 2. 2 Chro. 18. 1.</note> Confederacies<g ref="char:punc">▪</g> and Marriages with Carnal men, and adver<g ref="char:EOLhyphen"/>ſaries of Chriſts Kingdom. And this hath been fulfilled in Mar<g ref="char:EOLhyphen"/>riages and Confederacies with Idolaters, whereof I might give plentiful examples both old and new. This is mixing with the ſeed of men, or mixing iron and myrie clay.</p>
+               <p>Again, as Silver denotes a Kingdom inferiour to Gold; and in
+<pb n="9" facs="tcp:118831:7"/> regard of the nature of it baſer: ſo Iron doth imply that this Fourth Monarchy ſhould be baſer than the Third, which was of Braſs; and as Iron is harder than Braſs, ſo the Fourth Monar<g ref="char:EOLhyphen"/>chy ſhould uſe the people of God more hardly than the former. And taking Iron in this ſence it doth not denote the better part, (as when the Prophet compares the Toes to a mixture of Hete<g ref="char:EOLhyphen"/>rogeneal or contrary parts) but the worſeneſs, baſeneſs, and hardneſs of this Monarchy, beyond the <hi>Graecian</hi> Monarchy next fore-going. And this is for durance longer than any of the reſt, yea than all of them put together.</p>
+               <p>Thus you ſee a lively portraiture of worldly Governments, and how they do by degrees degenerate. Take them at the firſt, and they are the beſt. They are in appearance <hi>good gold;</hi> and in ſome reſpect they may be called good gold; for neceſſity requires, that in the firſt entrance of their Government they ſhould put forth ſome acts of Juſtice, <note n="u" place="margin">Ad facien<g ref="char:EOLhyphen"/>dum populum.</note> and fairer pretences of publick good, in their new deviſed form of <hi>Image-Government,</hi> than any other Government that did precede. Now this <hi>Image</hi> of <hi>Civil-Righteouſneſs,</hi> cannot be ſatisfied without another <hi>Image</hi> of <hi>deviſed-holineſs</hi> ſuitable thereunto, to pleaſe their own Conſci<g ref="char:EOLhyphen"/>ences, and the Conſciences of others that look towards Heaven. Therefore as <hi>Nebuchadnezzar</hi> did, ſo do they frame and con<g ref="char:EOLhyphen"/>trive a form of Church-Adminiſtrations ſuitable to their Civil State, elſe they ſhould be counted irreligious.</p>
+               <p>This being done, the Image <hi>ſtands before them,</hi> as it is ſaid, verſ. 31. They are well pleaſed with it. And now all men muſt ſtoop and bow to this <hi>Image-Government,</hi> and <hi>Image-Worſhip,</hi> or elſe it will become a terrible Image to them that op<g ref="char:EOLhyphen"/>poſe it, and cannot in Conſcience comply thereunto. Nothing but Fire and Fagot, and all kinds of Torments and Sufferings ſhal be prepared for ſuch, <hi>Dan. 3. 20, 21. Hebr.</hi> 11. 36, 37. If <hi>Amos</hi> be too plain and bold to meddle with great Perſonages, the <hi>Land is not able to bear his words,</hi> Amos 7. 10, 11. yet <hi>Amos</hi> eſcaped with a check only. But had he lived in the days of this <hi>great Image,</hi> as <hi>John Baptiſt</hi> did, it might have coſt him <hi>Impriſonment,</hi> Matth. 14. 3, 4. And verily, little do men know what their hearts will be, when they caſt <hi>Chriſts Heraulds</hi> into priſon. This is the terrible viſage of the Image under all the
+<pb n="10" facs="tcp:118831:8"/> Four Monarchies, but moſt of all in the <hi>Iron-Age</hi> of the <hi>Roman</hi> Monarchy.</p>
+               <p>The very natural effect of this <hi>terrour</hi> and <hi>tyranny</hi> is <hi>Divi<g ref="char:EOLhyphen"/>ſion,</hi> verſ. 41. <hi>The Kingdom ſhall be divided;</hi> and the end of <hi>Diviſion</hi> is <hi>Ruine;</hi> As our Saviour tells us, <hi>Matth. 12. 25. Eve<g ref="char:EOLhyphen"/>ry Kingdom divided againſt it ſelf comes to deſolation.</hi> Thus you ſee the Revolution of all Human earthly Forms or Images of Government, from their <hi>Riſe</hi> to their <hi>Ruine,</hi> which you may call the MONARCHICAL <hi>Ring or Circle.</hi> And let ſuch as wait for the <hi>downfall</hi> of this Fourth Monarchy, and the Ten King<g ref="char:EOLhyphen"/>doms thereof, and the ſetting up of the Kingdom of Chriſt Je<g ref="char:EOLhyphen"/>ſus, remember this for their comfort, that God doth repreſent theſe Toes or Kingdoms (unto <hi>N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>buchadnezzar</hi>) made up and compacted of ſuch parts as are inconſiſtent, and will at length break one another. In which reſpect it is ſaid, <hi>The Kingdom ſhall be partly ſtrong, and in part broken,</hi> verſ. 42. And it is conſiderable, how the Holy Ghoſt directed the Pen of his Ser<g ref="char:EOLhyphen"/>vants in writing. For firſt, when the Prophet ſpeaks of their parts, he writeth the word, <note n="o" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> part of <hi>them</hi> were Iron, with <hi>Jod,</hi> which is the numeral letter for <hi>ten.</hi> And when he ſaith, <note n="p" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>part of them were Clay,</hi> he writeth it with the letter <hi>Vau,</hi> the nume<g ref="char:EOLhyphen"/>ral letter of ſix. As if he would intimate to us, in the very manner of writing. That in the firſt beginnings of theſe ten Kingdoms, there ſhould be more ſtrength and hardneſs, and leſs <hi>fragility.</hi> But when he ſpeaks of them the ſecond time, <hi>verſ.</hi> 41. <note n="q" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> hee writeth the Pronoun alike, in ſpeaking of the Iron, and of the<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Clay, to expreſs the equality and likeneſs of theſe two tempers. But when he ſpeaks of them the third time, <hi>verſ.</hi> 42. <note n="r" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> hee writes the Pronoun, as if he would expreſs more fragility of<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Clay, than ſtrength of Iron in the Toes, towards the end of the Fourth Monarchy; ſo that the brittleneſs of theſe earthly Go<g ref="char:EOLhyphen"/>vernments ſeems to be intimated in the various writings of the Pronoun, which I conceive to be the reaſon of their various read<g ref="char:EOLhyphen"/>ings in the Text, and in the Margent.</p>
+               <p>The laſt thing obſervable in this Dream, or Viſion, is the <hi>ſtone</hi> cut out of the Mountain, and breaking in peeces theſe former Go<g ref="char:EOLhyphen"/>vernments. Touching which ſtone let theſe things bee in<g ref="char:EOLhyphen"/>quired.</p>
+               <pb n="11" facs="tcp:118831:8"/>
+               <p>
+                  <hi>Queſt.</hi> 1. What is meant by this <hi>Stone?</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> 2. What is meant by that phraſe, <hi>cut out but not with hands?</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> 3. How doth it <hi>ſmite the Image<g ref="char:punc">▪</g> upon his feet of I<g ref="char:EOLhyphen"/>ron and Clay?</hi> and how doth it break them to peices? and when?</p>
+               <p>
+                  <hi>Queſt.</hi> 4. What will be the effect of this Stones ſmiting of the Image?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> To the firſt I anſwer, That by <hi>Stone</hi> is meant a <hi>Kingdom,</hi> as may appear by comparing verſe thirty four with verſe forty four, where it is ſo called; The word there uſed for <note n="s" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Kingdom,</hi> is the ſame that is uſed to expreſs the Civil Power, and Go<g ref="char:EOLhyphen"/>vernment of the other Monarchies, verſ. 39, 40, 41. which ar<g ref="char:EOLhyphen"/>gues that the <hi>Kingdom</hi> here ſpoken of is not (as ſome appre<g ref="char:EOLhyphen"/>hend it to be) a Spiritual and internal <hi>Kingdom,</hi> whereby Chriſt reigns in the hearts and Conſciences of his people; but it is an external <hi>Kingdom,</hi> whereby hee rules and guides the World with Righteouſneſs and Judgement, <hi>Pſal. 98. 9. He comes to judge the earth; with righteouſneſs ſhall he judge the world, and the people with equity.</hi> Of this <hi>Kingdom</hi> it is ſpoken, That the <note n="t" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Government ſhall be upon his ſhoulder. The word there uſed is always put for <hi>Temporal Government</hi> (as we call it) not for <hi>Spiritual;</hi> for a <hi>Dominion</hi> over the bodies, and eſtates, and outward actions of men, not for a <hi>Dominion</hi> over their Conſciences and Spirits.</p>
+               <p>Of this Kingdom and Government, it is ſaid to begin in the days of the ten <hi>Kings,</hi> or Toes of the Fourth Monarchy, <hi>verſ. 44. And in the days of them (of theſe Kings) ſhall the God of Heaven cauſe to ariſe a Kingdom that ſhall never be deſtroy<g ref="char:EOLhyphen"/>ed, &amp;c.</hi> The words are very obſervable, hee had ſpoken of the <hi>toes of the feet,</hi> and their unequal mixture, in the next pre<g ref="char:EOLhyphen"/>ceding verſes, and now in this verſe he ſaith, <note n="u" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>In the days of them,</hi> that is, in the days of theſe Toes, as the Pronoun relative doth neceſſarily infer. And then by way of Exegeſis, addeth a deſcription of the dignity of thoſe <hi>Toes,</hi> they were <hi>Kings.</hi> Now in the days of theſe Kings he ſaith, The God of Heaven <note n="x" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> ſhal cauſe to ariſe a Kingdom; which doth inferre, that the <hi>Kingdom</hi> here ſpoken of, is ſuch as had not a <hi>being,</hi> or to uſe the Prophets
+<pb n="12" facs="tcp:118831:9"/> words was not <hi>cauſed to ariſe</hi> until the days of theſe Ten Toes, or Kings. Whereas the Spiritual Kingdom of Chriſt, and his Regiment in the <hi>Souls and Conſciences</hi> of his people, was be<g ref="char:EOLhyphen"/>gun many years before the time of theſe ten Kings, yea long be<g ref="char:EOLhyphen"/>fore any of all the great Monarchies, even from the beginning of the world. The Kingdom therefore here ſpoken of, cannot bee meant of an <hi>inward</hi> and <hi>Spiritual</hi> Kingdom, but of an <hi>external</hi> Kingdom over mens bodies, and outward actions.</p>
+               <p>This Kingdom is here deſcribed;</p>
+               <p>Firſt, By its Divine original, <hi>It is cut out, but not with hands,</hi> verſ. 34. 45. Jeſus Chriſt the <note n="y" place="margin">Gen. 49. 24.</note> 
+                  <hi>Stone of Iſrael,</hi> received this power from the Father <hi>actually,</hi> in the days of theſe ten Kings, towards the end of the Fourth Monarchy, <hi>Dan. 7. 14. And to him was given abſolute Soveraignty, and Glory, and Dominion, and all People, Nations, and Langua<g ref="char:EOLhyphen"/>ges ſhall ſerve him, &amp;c.</hi>
+               </p>
+               <p>Secondly, This Kingdom is deſcribed by the perfect conſti<g ref="char:EOLhyphen"/>tution of it, it is ſuch <hi>a Kingdom that ſhall never</hi> 
+                  <note n="z" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>bee de<g ref="char:EOLhyphen"/>ſtroyed,</hi> or as the word ſignifies, ſhall never be corrupted; the Conſtitution being Divine, and the <hi>Adminiſtrators</hi> thereof Saints, it can neither be corrupted nor deſtroyed, as it is ſaid, <hi>Dan.</hi> 7. 14. where the ſame word is uſed.</p>
+               <p>Thirdly, The perpetu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of it is ſet forth in theſe words, Shall <note n="a" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>never</hi> be deſtroyed, and therefore it is called <hi>an everlaſt<g ref="char:EOLhyphen"/>ing Kingdom,</hi> Dan. 7. 14. Theſe are the Three principall Cha<g ref="char:EOLhyphen"/>racters of the Kingdom of Chriſt, or the <hi>Fifth Monarchy,</hi> as it is called.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>2</label> To the Second I anſwer, That the cutting out of this Stone, <hi>but not with hands,</hi> doth deny, that it is from any Human policy or contrivement, and therefore the Dominion and Soveraignty thereof is from above. <hi>My Kingdom is not of this world,</hi> Joh. 18. 36. And therefore his Servants would not then fight for it, till the time was come which the Father had appointed. And then he goeth forth to Warre, and his Servants with him, verſ. 12. 7. &amp; 17. 14.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>3</label> To the Third Queſtion I anſwer, He ſmites the <hi>Image,</hi> or <hi>Image-Government,</hi> by the Miniſtry of his Word, <hi>Rev. 19. 15. Out of his mouth goeth a ſharp ſword, that with it he ſhould
+<pb n="13" facs="tcp:118831:9"/> ſmite the Nations.</hi> This is the firſt Act, as I may ſay, of this <hi>Stone.</hi> Which argues, that when the ſeaſon comes for Chriſt to challenge his Kingdom, his Servants firſt prepare his way, by publiſhing to all the world his Royal Power and Sove<g ref="char:EOLhyphen"/>raignty, and declaring the incroachments of <hi>worldly Powers</hi> up<g ref="char:EOLhyphen"/>on his Royalty, whereby the free paſſage of Judgement and Juſtice hath been obſtructed, and the inhabitants of the <hi>Nations</hi> deluded with an <hi>Image-Government.</hi> And having thus ſent his <hi>Heraulds</hi> before to advertiſe the People and Nations, hee then comes to break and cruſh them with his Iron <hi>Scepter, and rules them with a rod of Iron,</hi> Rev. 19. 15. Pſal. 2. 9. And who is it that doth not ſee (or at leaſt may) that Chriſt hath already begun to break the Nations, and Governments in the World, and in theſe our Nations alſo, in the late Warres and revolutions of State? And is not this ſome beginning of his Kingdom? As for the time when this ſhall be done, it is ſaid in the days of them, (of theſe Kings) that is, Chriſt will firſt ſend abroad his <hi>Heraulds,</hi> and ſuch as will not ſtoop to him he will break in peeces, whilſt yet theſe Kings and Kingdoms, or various kinds of governments have a <hi>Being.</hi> And hath not Chriſt made good all this before our eyes? The Servants of Chriſt, as Heraulds, have gone before to publiſh the Royalty of this only and bleſſed Potentate, witneſs Mr. <hi>Archer,</hi> M. <hi>Tho. Goodwin,</hi> and many others, and ſome to this day <hi>ſuffer</hi> for their boldneſs in that behalf. And that Chriſt hath ruled with his Iron Rod is manifeſt to our own experience. We all know what ſtrange Revolutions, and overturnings<g ref="char:punc">▪</g> of this <hi>Government</hi> after that, hath been already made.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>4</label> To the Fourth I anſwer, That the <hi>effects</hi> of this Stones ſmi<g ref="char:EOLhyphen"/>ting the <hi>Image-Government</hi> of the Fourth Monarchy upon its feet, are clearly expreſſed to be two; Firſt, by the Miniſtry of his Servants, he ſo <hi>ſmites them</hi> with the word of his mouth, that they <hi>become as the chaff of the Summer Threſhing<g ref="char:EOLhyphen"/>floors.</hi> The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>here ſignifieth ſuch an action as redu<g ref="char:EOLhyphen"/>ceth this Image of Gold, Silver, Braſs, Iron, and Clay into moſt fine and ſubtil duſt or powder, whether by rubbing, filing, pounding, or the like,</hi> as the next word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth import, which properly ſignifies <hi>in pulverem tenuiſſimam redigere.</hi> And <hi>Daniel</hi> himſelf was one of Chriſts <hi>Heraulds</hi> that filed the
+<pb n="14" facs="tcp:118831:10"/> Golden head of this Image to limell, <hi>Dan.</hi> 4. 25. and 5, 25, 26, 27, 28. and yet hee was honoured by <hi>Belſhazzer, Dan.</hi> 5. 29. The meaning I conceive is this, that Chriſts heralds do ſo ſmite and thraſh theſe <hi>Image Governments</hi> conſiſting of <hi>Heterogeneal parts,</hi> to wit, iron and clay (but now become more clay than iron,) that they bruiſe them to duſt. In ſo much as now men grow to be awakened more and more to ſee the vanity of all humane forms of politick governments, and more to reliſh, and admire, and affect, the purity and ſimplicity of Chriſts righteous adminiſtrations. So that now they beginne to perceive the <hi>Levi<g ref="char:EOLhyphen"/>ty</hi> of theſe worldly Governments, and beginne to grow weaned from them. The <hi>Second Act</hi> or <hi>effect</hi> of this Stone upon the <hi>Image,</hi> and all the parts thereof, thus broken to pieces, as duſt in the Summer <hi>threſhing floor,</hi> is, the utter removall of theſe <hi>pow<g ref="char:EOLhyphen"/>ers;</hi> Which is here elegantly expreſſed, <hi>the wind</hi> 
+                  <note n="z" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>carried them away,</hi> or lift them up, as the word ſignifies, they were be<g ref="char:EOLhyphen"/>come ſuch light duſt by the miniſtery of the word, <hi>that no place was found.</hi> They will be totally removed, and forgotten, as it is written <hi>Iſa. 65. 17. they ſhall not be remembred, nor come upon the heart.</hi> And as the miniſtery of the word and Spirit, doth at firſt ſmite them, and reduce them to powder, ſo now it blows them away, and blots out their memory; Which argues it muſt be a continued <hi>Act</hi> of the miniſtery of the word that muſt effect this, when the ſeaſon is come of <hi>Babels</hi> ruine, and a lit<g ref="char:EOLhyphen"/>tle before.</p>
+               <p>Now this <hi>Stone</hi> having broken to pieces and diſſolved all o<g ref="char:EOLhyphen"/>ther Governments, hee proceeds to ſet up his own Kingdome, according as it is ſaid, <hi>this Stone that ſmote the Image became a great mountain, and filled all the earth.</hi> This ſhews the uni<g ref="char:EOLhyphen"/>verſality of the Kingdome of Chriſt over all Nations, which you may make a fourth mark or deſcription of the fifth Mo<g ref="char:EOLhyphen"/>narchy.</p>
+               <p>And this may ſuffice to have ſpoken touching this Dream or Viſion of <hi>Nebuchadnezzer,</hi> wherein you may ſee how God re<g ref="char:EOLhyphen"/>preſents to him, not only what ſhould enſue in his Monarchy and Government, but what ſhould come to paſſe <note n="a" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> after that, even to the utter abolition and removall of Image-government, unto the ſetting up of the Kingdome of Chriſt all the world over.
+<pb n="15" facs="tcp:118831:10"/> All which hee hath done in moſt exquiſite and choiſe expreſſions and metaphors, ſo as none could make particular Application of the ſame, had not Chriſt firſt gone before us in his word, and after that in his providence, ſo opening the Seal.</p>
+            </div>
+            <div type="chapter">
+               <head>
+                  <hi>Dan.</hi> Chap. 7.</head>
+               <p>Verſ. 8. I was conſidering the horns, and behold, another little Horn came up among them, and three of the firſt Horns were plucked up by the roots by his prerogative: and lo eyes as the eyes of a man in this horn, and a mouth ſpeaking great things &amp;c.</p>
+               <p>I have already writ an <hi>Explication and Application</hi> of this Chapter, and in particular of this <hi>Little Horn.</hi> But becauſe o<g ref="char:EOLhyphen"/>thers apply it otherwiſe, I ſhall add a few words in this place, for further clearing of the ſame.</p>
+               <p>To which end I ſhall gather up what the <hi>Prophet</hi> ſpeaketh of this <hi>Little Horn,</hi> and give you the principall <hi>Characters,</hi> by which this Horn is deſcribed, and compare it with the providen<g ref="char:EOLhyphen"/>tiall accompliſhment thereof in the late King. And make ſome Queries upon the various interpretations, which I have found made by others, and ſo leave it to others, to conſider and judge, as God ſhall pleaſe to caſt in any Beam of <hi>Light.</hi>
+               </p>
+               <p>Divers are the Interpretations which are made of this <hi>Little Horn.</hi> Some apply it to <hi>Antiochus Epiphanes;</hi> Others to <hi>Mahomet:</hi> Others to the <hi>Roman Civil Power,</hi> or to the <hi>An<g ref="char:EOLhyphen"/>tichriſtian power,</hi> or both; Others to the <hi>Norman Race,</hi> or <hi>William</hi> the Conquerer; And laſtly I have made Application thereof to <hi>Charls Stuart,</hi> the late King that was beheaded. Some other Application I have met with, which I judge not worth the anſwering or inquiring into being inconſiſtent in it ſelf.</p>
+               <div type="section">
+                  <head>The little Horns Characters, as they are given us by Daniel, are theſe.</head>
+                  <p n="1">1 Hee is a <hi>Horn, Dan.</hi> 7. 8. which denotes <hi>Soveraignty,</hi> verſ. 24.</p>
+                  <p n="2">2 Hee is one of the <hi>ten horns,</hi> or amongſt the ten horns of the
+<pb n="16" facs="tcp:118831:11"/> fourth <hi>great Beaſt,</hi> verſ. 7, 8, 24.</p>
+                  <p n="3">3 He is a <hi>little horn,</hi> verſ. 8. which muſt be underſtood to be <hi>little</hi> in ſome ſcripturall ſenſe.</p>
+                  <p n="4">4 Hee <hi>plucks up three</hi> of the ten horns, by his <hi>prerogative,</hi> verſ. 8.</p>
+                  <p n="5">5 Hee is deſcribed by his <hi>vigilancy,</hi> and carnall policy, <hi>hee hath eyes as the eyes of a man</hi> verſ. 8.</p>
+                  <p n="6">6 Hee is deſcribed by the <hi>Bent of his ſpirit</hi> againſt God, and againſt the waies of God, and againſt his Saints, expreſſed by his <hi>words,</hi> verſ. 8, 25. and by his <hi>actions,</hi> wearing out the Saints, verſ. 25.</p>
+                  <p n="7">7 Hee is deſcribed by the <hi>wilfulneſſe</hi> of his Spirit, expreſſed by his Countenance (for <hi>vultus eſt index animi</hi>) or if you will the <hi>Stoutneſs</hi> of his Spirit, and averſneſs to be counſelled by his Compeeres, verſ. 20. <hi>his viſage was more ſtout then his fel<g ref="char:EOLhyphen"/>lows.</hi>
+                  </p>
+                  <p n="8">8 Hee is deſcribed by his <hi>ingagement in warre</hi> againſt his beſt Subjects, namely the Saints, verſ. 21. and that in all the three Kingdoms. In reſpect whereof they are ſaid to <hi>fall by his pre<g ref="char:EOLhyphen"/>rogative,</hi> verſ. 20.</p>
+                  <p n="9">9 Hee is deſcribed by the advancement of his prerogative to the ruine of his Subjects. Wherefore it is ſaid, <hi>that hee plucked three of the Kingdoms up by the roots by his prerogative,</hi> but one of them more eſpecially, verſ. 8. and <hi>three</hi> of the ten Kingdomes of the fourth Monarchy <hi>fell by his prerogative,</hi> but one above the reſt, verſ. 20. That is, they were ſlain with the ſword, as that phraſe imports, <hi>Lam.</hi> 2. 21. Touching which ſee more in my <hi>Explication and Application</hi> of the 7<g ref="char:punc">▪</g> of <hi>Daniel,</hi> formerly put forth.</p>
+                  <p n="10">10 Hee is deſcribed by his oppreſſion of his beſt Subjects, (here called Saints) with taxes, and tribute, loans and Ship<g ref="char:EOLhyphen"/>monies, as the word may import, verſ. 25. <hi>hee ſhall wear out the Saints of the moſt high.</hi>
+                  </p>
+                  <p n="11">11 Hee carrieth on a ſecret deſign, to ſubvert the antient go<g ref="char:EOLhyphen"/>vernment of the nations, expreſſed in theſe words, <hi>hee ſhall think to change times and laws,</hi> verſ. 25.</p>
+                  <p n="12">12 He is judicially tryed and ſentenced, verſ. 26. the <hi>judge<g ref="char:EOLhyphen"/>ment ſhall ſit,</hi> and verſ. 10. <hi>the Judgement ſate, and the Books were opened.</hi>
+                  </p>
+                  <p n="13">
+                     <pb n="17" facs="tcp:118831:11"/>13 He is diveſted of his Royalty in all the three Nations, <hi>The Thrones were caſt down,</hi> verſ. 9.</p>
+                  <p n="14">14 He is beheaded, verſ. 11. <hi>The Beaſt was ſlain by diſ<g ref="char:EOLhyphen"/>membring,</hi> as the word imports.</p>
+                  <p n="15">15 After this proceeding with the Beaſt, or little Horn, there follows a total removal of Sovereign Power by a publick <hi>Act</hi> of the State. They ſhall take away his abſolute Soveraignty, v. 26. And they ſhall burn his carcaſe, ver. 11.</p>
+                  <p n="16">16 All this muſt be done before the change of Government in the other ſeven Kingdoms of the Empire, verſ. 12. <hi>As concer<g ref="char:EOLhyphen"/>ning the reſt of the Beaſts, they removed away their abſolute Soveraignty: yet a prolonging in life was given them for a ſea<g ref="char:EOLhyphen"/>ſon and time.</hi>
+                  </p>
+                  <p n="17">17 You may adde to all theſe, the ſeaſon in which all theſe things ſhall be acted; To wit, <hi>at or nigh,</hi> the expiration of <hi>a time, times, and half a time,</hi> as the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> doth import, verſ. 25. Touching which you may read more in my <hi>Explicati<g ref="char:EOLhyphen"/>on</hi> of this Chapter at large.</p>
+                  <p>Theſe are the principal <hi>Characters,</hi> which the text gives us of the <hi>Little Horn,</hi> whereby to diſtinguiſh it from all other. Now let it be conſidered, to what King under the Fourth Monarchy (<hi>or great Beaſt</hi>) theſe may moſt fitly be applied.</p>
+                  <p>Firſt therefore to ſpeak of <hi>Antiochus Epiphanes,</hi> he was one of the ſucceſſors of <hi>Alexander</hi> the Great, and a member of the <hi>Third</hi> Monarchy, not of the <hi>Fourth,</hi> as Mr. <hi>Tillinghaſt</hi> rightly obſerves, in his <hi>knowledge of times,</hi> pag. 102, 103. Neither did he pluck up the other three parts of the <hi>Grecian</hi> Monarchy by the roots; nor was he judicially tried, ſentenced, and behea<g ref="char:EOLhyphen"/>ded, as it is ſaid of this <hi>Little Horn.</hi> Neither did his <hi>Actions</hi> fall out, within the compaſs of a time, times, and half a time, ſpo<g ref="char:EOLhyphen"/>ken of by <hi>Daniel:</hi> but many hundred years before. In all which reſpects, it may be juſtly Queried, how theſe Characters of the <hi>Little Horn</hi> can ſuit unto <hi>Antiochus.</hi>
+                  </p>
+                  <p>Secondly, as touching <hi>Mahomet,</hi> I ſhall need ſay no more but this: That <hi>Mahomet</hi> was never (that I remember) accoun<g ref="char:EOLhyphen"/>ted by any, to be one of the Kingdoms of the <hi>Fourth Monarchy,</hi> and therefore cannot be intended by the <hi>Little Horn.</hi> But if it be ſaid, that the <hi>Little Horn</hi> is diſtinct from the ten, and therefore
+<pb n="18" facs="tcp:118831:12"/> may be underſtood of <hi>Mahomet</hi> well enough. Let it then bee conſidered in what ſence <hi>Mahomet</hi> can be ſaid to riſe up among the ten Horns of the Fourth great Beaſt? and what thoſe <hi>three former Horns</hi> were, which are ſaid to be plucked up by the roots, and to fall before him, or by his Prerogative? Moreover, ſome of the Characters of the Little Horn are not yet accompli<g ref="char:EOLhyphen"/>ſhed in <hi>Mahomet.</hi> He hath not been judicially tried, ſentenced, and beheaded. He hath not been diveſted of his Sultanſhip, but retains it ſtill. Nor can it be averred definitively, that the reſt of the <hi>Beaſts</hi> ſhall have a prolonging in life granted them, after he is ſlain. Wherefore it cannot be concluded poſitively, that <hi>Maho<g ref="char:EOLhyphen"/>met</hi> is the <hi>Little Horn,</hi> till all be accompliſhed.</p>
+                  <p>Thirdly, as touching <hi>William</hi> the Conqueror, or the <hi>Nor<g ref="char:EOLhyphen"/>man</hi> Race, let it be inquired, how it can bee ſaid of him, that <hi>three of the ten Horns</hi> or Kingdoms, belonging to the Fourth <hi>great Beaſt,</hi> were pluckt up by the roots, and ſlain with the ſword, before him, or by <hi>his Prerogative?</hi> He did indeed in<g ref="char:EOLhyphen"/>vade <hi>England</hi> and ſubdued it, but whether he left Religion (the ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efeſt <hi>Root</hi> of a Nation) better or worſe than hee found it, is hard to ſay. Yet ſuppoſe he had inverted the Government, and rooted up Religion in <hi>England,</hi> what is that to three Nations? Neither was <hi>William,</hi> that Conqueror judicially tried, and be<g ref="char:EOLhyphen"/>headed, as it is ſaid of the <hi>Little Horn.</hi> Neither was his abſolute Soveraignty utterly aboliſhed, but hath continued ever ſince, until the time of <hi>Charls Stuarts</hi> beheading, during the ſpace of ma<g ref="char:EOLhyphen"/>ny hundred years.</p>
+                  <p>Fourthly, If it be apprehended to be ſpoken of the <hi>Roman Civil power,</hi> or of <hi>Antichriſt,</hi> or both: (as I know it is by ſome of late) Then let it be conſidered, how it is poſſible that the <hi>Roman Civil-power,</hi> conſiſting of <hi>ten Horns,</hi> as the conſti<g ref="char:EOLhyphen"/>tuting parts thereof, can be ſaid to be one of them, or to riſe up amongſt them? Can the whole be one of the <hi>parts?</hi> or riſe up<note place="margin">Quae. 1.</note> amongſt the parts? It might rather have been ſaid that the <hi>Horns</hi> ſpring out of the <hi>Beaſt,</hi> than that the <hi>Beaſt</hi> ſhould ſpring up among the <hi>Horns.</hi>
+                  </p>
+                  <p>
+                     <hi>Quaer.</hi> 2. Seeing the <hi>Ten Horns</hi> (or conſtituting parts of the <hi>great Beaſts</hi> power) did but begin to be divided, <hi>Anno</hi> 456 (as <note n="b" place="margin">In his <hi>Knowledge of the times,</hi> p. 57.</note> Mr <hi>Tillinghaſt</hi> doth obſerve out of Mr. <hi>Mede</hi>) which
+<pb n="19" facs="tcp:118831:12"/> was ſome years after the firſt riſe of <hi>Antichriſt,</hi> and many hun<g ref="char:EOLhyphen"/>dreds of years after the riſe of the <hi>Roman Civil-power;</hi> How can either the one, or the other (which had their riſe and <hi>exiſtence</hi> before the <hi>Horns</hi>) be ſaid to riſe up amongſt them? And if a<g ref="char:EOLhyphen"/>mongſt them, will it not infer that the <hi>Horns</hi> were <hi>Horns,</hi> ere the Beaſt, (whoſe Horns they be) was a Beaſt? which ſeems to bee inconſiſtent. See Maſter <hi>Tillinghaſt</hi> in his Knowledge of the times; <hi>p.</hi> 61.</p>
+                  <p>
+                     <hi>Quae.</hi> 3. Seeing the <hi>tenne Hornes</hi> are conſtituting, or in<g ref="char:EOLhyphen"/>tegral parts of the Fourth <hi>great Beaſts</hi> power; How can it bee ſaid, either of the <hi>Roman Civil-power,</hi> or of <hi>Antichriſt,</hi> that three of the <hi>ten Horns,</hi> or integral parts of their power, were plucked up by the roots, and ſlain with the ſword, either by the one or by the otber, before that either of them had a <hi>being?</hi> Is it poſſible that the <hi>parts</hi> can have exiſtence (as ſuch) before the <hi>whole?</hi> Or in what ſence can the <hi>whole</hi> be ſaid to pluck up any of its <hi>integral parts</hi> by the roots, ere it ſelf have ex<g ref="char:EOLhyphen"/>iſtence?</p>
+                  <p>
+                     <hi>Quae.</hi> 4. How can it in reaſon be imagined, that the reſt of the <hi>Beaſts, Horns, or Kingdoms</hi> (viz. the ſeven that remained) being conſtituting parts of the <hi>Fourth great Beaſts power,</hi> I ſay, how can they retain life for a ſeaſon, after the Beaſt whoſe Horns they are, is ſlain?</p>
+                  <p>
+                     <hi>Quae.</hi> 5. Seeing that three of the ten Horns of the <hi>Beaſt,</hi> are ſaid to <hi>fall</hi> before the Little Horn, or by his Prerogative: Let it be conſidered and well weighed, whether the <note n="c" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> word there u<g ref="char:EOLhyphen"/>ſed, be ever uſed (in Scripture) for a peoples revolting from their Prince? Or whether it ought not here to bee underſtood rather of a <hi>falling</hi> by the ſword, as <hi>Jeremiah</hi> uſeth the ſame word, <hi>Lam.</hi> 2. 21. But yet if it might be underſtood of a <hi>falling off</hi> or revolting, let it be conſidered notwithſtanding, how ſuitably this can be applied to the <hi>Goths</hi> and <hi>Vandals,</hi> who ſacked <hi>Rome,</hi> and took it, under the conduct of <hi>Genſericus?</hi> Might it not ra<g ref="char:EOLhyphen"/>ther be ſaid, that the <hi>Roman<g ref="char:punc">▪</g> Civil,</hi> or <hi>Antichriſtian Power</hi> fell before them, then they before it? And how can this ſuit unto the <hi>Little Horns</hi> Character, verſ. 20? where it is ſaid, <hi>before whom,</hi> or by whoſe <hi>Prerogative, three fell.</hi>
+                  </p>
+                  <p>
+                     <hi>Quae.</hi> 6. If Antichriſts riſe added <note n="d" place="margin">Mr. <hi>Tilling.</hi> Knowledge of the times, p. 61, 62.</note> 
+                     <hi>Crowns</hi> unto the ten Horns
+<pb n="20" facs="tcp:118831:13"/> 
+                     <hi>Rev.</hi> 12. 3. and 13. 1.) to wit, Soveraignty and juriſdiction: How can it be ſaid of theſe <hi>three Horns,</hi> that they were pluck<g ref="char:EOLhyphen"/>ed up by the roots, and <hi>fell</hi> before the <hi>little Horn,</hi> or by his pre<g ref="char:EOLhyphen"/>rogative? Is adding of Crowns, a pluking up by the roots? Or which three of the ten Horns are they, of whom it is here meant? If it be ſaid, that wee are not to underſtand <hi>three</hi> as a definite number, but as a number of perfection, denoting divers and ma<g ref="char:EOLhyphen"/>ny of the Horns; I wiſh it may be wel weighed, how unſafe ſuch an interpretation may be. For if it be granted that <hi>three</hi> in this Prophecy is not a <hi>definite</hi> but an <hi>indefinite</hi> and uncertain num<g ref="char:EOLhyphen"/>ber, put for <hi>Many:</hi> will it not open a door to ſome, to queſti<g ref="char:EOLhyphen"/>on the <hi>Trinity of Perſons</hi> in the God-head? and to ſay, there are many perſons, becauſe <hi>three</hi> is counted a number of perfection, and doth not denote a certain but an uncertain number, which, would be of dangerous conſequence? Beſides, it may juſtly be in<g ref="char:EOLhyphen"/>quired, where the Scripture accounts the number <hi>three,</hi> a num<g ref="char:EOLhyphen"/>ber of perfection? Often wee read of ſeven ſo uſed, as the <hi>Seven</hi> Spirits of God, the <hi>Seven</hi> Golden Can<g ref="char:EOLhyphen"/>dleſticks, the <hi>Seven</hi> Churches of <hi>Aſia,</hi> the <hi>Seven</hi> Starres, the <hi>Seven</hi> Angells, the <hi>Seven</hi> Seals. And it is uſuall in Scripture to reckon by <hi>Sevens.</hi> But I do not remember the like rotundi<g ref="char:EOLhyphen"/>ty in the number <hi>three.</hi> And if wee ſhould make ſuch an inter<g ref="char:EOLhyphen"/>pretation of the number <hi>three,</hi> as if it were put for an indefinite number, it would render the Accounts of Scripture very uncer<g ref="char:EOLhyphen"/>tain, which is not ſafe to be admitted.</p>
+                  <p>In the Fifth and laſt place, let it be conſidered, how the Cha<g ref="char:EOLhyphen"/>racters of the <hi>Little Horn</hi> afore mentioned, will ſuit unto <hi>Charls Stuart</hi> the late King, in every particular.</p>
+                  <p>For Firſt, He was a King.</p>
+                  <p>Secondly, Hee was one of the <hi>ten Horns,</hi> or amongſt the <hi>ten Horns</hi> or Kings, appertaining to the Fourth <hi>Monarchy</hi> or great Beaſt.</p>
+                  <p>Thirdly, Hee was by originall a <hi>Scot,</hi> and by conſequence a <hi>little Horn,</hi> for as much as <hi>Scotland</hi> is one of the leaſt Kingdoms of the ten. And as hee was the <hi>leaſt</hi> in reſpect of his originall Nation, ſo alſo hee was <hi>leaſt</hi> or youngeſt by birth. He was not the oldeſt but the youngeſt ſonne of <hi>James.</hi> And hee did ſpring up (as <hi>Daniel</hi> ſaith) from being a King of the leaſt of the King<g ref="char:EOLhyphen"/>doms,
+<pb n="21" facs="tcp:118831:13"/> to be a King of <hi>three Kingdoms.</hi>
+                  </p>
+                  <p>Fourthly, Hee did in a great meaſure <hi>pluck up by the roots</hi> all the three Nations or Kingdoms, by his <hi>prerogative;</hi> If you underſtand by that Metaphor, <hi>religion and the civil rights of the Nations.</hi> Which are to the Nations, as roots be to the tree. And hee made uſe of his <hi>prerogative</hi> to that end. For hee ſaid, hee would not leave a Puritan in all his Dominions. And it is well known, how farre hee proceeded to root up <hi>religion</hi> and the Nations <hi>Civil Rights,</hi> and to introduce an arbitrary govern<g ref="char:EOLhyphen"/>ment, and Popery, into all the three Nations.</p>
+                  <p>Fifthly, Hee was a vigilant Prince and politick, and had <hi>the eyes of a man,</hi> as <hi>Daniel</hi> ſpeaketh.</p>
+                  <p>Sixtly, His Spirit was bent againſt God, and againſt his peo<g ref="char:EOLhyphen"/>ple, and againſt the waies of God, as might be inſtanced at large.</p>
+                  <p>Seventhly, Hee was a Prince of a wilfull reſolute ſpirit, inſo<g ref="char:EOLhyphen"/>much as King <hi>James</hi> (his Father) ſometimes would ſay of him, that through his wilfullneſſe, hee would loſe the three Nati<g ref="char:EOLhyphen"/>ons.</p>
+                  <p>Eightly, Hee made warre againſt the Saints (the better part giving denomination to the whole) throughout the three nations. Witneſſe, the diſplaying of his Banners firſt againſt the Parlia<g ref="char:EOLhyphen"/>ment, not they firſt againſt him. And witneſſe, the Commiſ<g ref="char:EOLhyphen"/>ſions hee granted to the Popiſh-Rebells in <hi>Ireland,</hi> againſt the Godly party there.</p>
+                  <p>Ninthly, Hee made uſe of his <hi>prerogative,</hi> to the extirpation of <hi>religion,</hi> and the Nations <hi>Civil Rights,</hi> as farre as lay in his power, infeſting all the three Nations with inteſtine and bloody warres.</p>
+                  <p>Tenthly, Who is it that knows not, how hee oppreſſed his Subjects with Taxes, Loans, Ship-monys, &amp;c? according as it is ſaid of the <hi>Little Horn,</hi> that he did wear out the <hi>Saints,</hi> the whole taking denomination from the better part.</p>
+                  <p>Eleventhly, It is a thing well known, that hee had a ſecret deſign to change the antient Government of the Nations, and in<g ref="char:EOLhyphen"/>ſtead thereof to have ruled by his Proclamations. And what elſe did his billetting of forrain Souldiers up and down the Country import, before the begining of theſe late warres?</p>
+                  <pb n="22" facs="tcp:118831:14"/>
+                  <p>Twelfthly, It is apparently known not only to theſe Nations but throughout the world, that hee was brought to a Judicial tryal, and received his ſentence before the High Court of Juſ<g ref="char:EOLhyphen"/>tice.</p>
+                  <p>Thirteenthly, Hee was <hi>unkinged,</hi> as I may ſay, and diveſted of his royalty, when the Court proceeded againſt him as <hi>Charls Stuart</hi> a delinquent, without any Kingly title.</p>
+                  <p>Fourteenthly, All theſe Nations, yea the whole World, can witneſſe, that hee was beheaded and ſlain by diſmembring, as <hi>Daniel</hi> fore-told.</p>
+                  <p>Fifteenthly, It is well known and ſtill remains upon record, that after his beheading, the State removed away all ſoveraignty out of the Nations by a publick <hi>Act</hi> of State.</p>
+                  <p>Sixteenthly, We know it to be a truth, that though <hi>Charls</hi> be beheaded and Soveraignty aboliſhed, yet the reſt of the <hi>Horns</hi> or <hi>Beaſts</hi> appertaining to the Empire, ſtill retain their power and Soveraignty, and ſo are like to do for a ſhort ſeaſon.</p>
+                  <p>Seventeenthly, It needs no proof that all theſe things have been thus acted as upon a Stage, in the latter end of a <hi>time, times, and half a time.</hi> Our times drawing nigh to the expiration of the Fourth great Beaſt or Monarchy, as it is acknowledged by moſt.</p>
+                  <p>Now let every judicious and unbyaſſed Reader conſider, and laying all that hath been ſpoken, by mee or others, in the ballance of the Sanctuary, looking up to Heaven for direction, and then comparing the word of God &amp; the diſpenſations of his providence together, let them judge (as God ſhall caſt in any light) who it is that is meant by this <hi>little Horn.</hi> And if any doubt ſhould a<g ref="char:EOLhyphen"/>riſe about the Characters I have collected out of the Text, whe<g ref="char:EOLhyphen"/>ther they be the proper Characters of this <hi>little Horn,</hi> becauſe ſome good men expreſs them otherwiſe, let the Reader himſelf be judge, w<hi rend="sup">ch</hi> of the Characters have beſt footing in that Scripture that deſcribeth this <hi>little Horn.</hi> For to fetch Characters from the ſe<g ref="char:EOLhyphen"/>cond, Eighth, or Eleventh chapters of this Book, wilbe altogether improper, and raiſe a miſt before the Readers eye, unleſſe it could be manifeſted that thoſe Chapters ſpeak of the ſame thing, which with ſubmiſſion to better judgements, I may be bold to ſay hath not yet been done, nor can be. For as much as the mat<g ref="char:EOLhyphen"/>ter
+<pb n="23" facs="tcp:118831:14"/> of thoſe Viſions doth apparently differ from this of the little horn, as in part I have ſhewed upon the ſecond Chapter, and am now about to ſhew further in the opening of the eighth Chapter.</p>
+               </div>
+            </div>
+            <div type="chapter">
+               <epigraph>
+                  <bibl>
+                     <hi>Dan.</hi> Chap. 8.</bibl>
+                  <q>
+                     <p n="1">1 In the third year of the reign of <hi>Belſhazzar:</hi> a Viſion ap<g ref="char:EOLhyphen"/>peared to mee, <hi>even</hi> to me <hi>Daniel,</hi> after that which appear<g ref="char:EOLhyphen"/>ed to me at the beginning.</p>
+                     <p n="2">2 And I ſaw in a Viſion: (and it came to paſſe when I ſaw) that I was in <hi>Shuſhan</hi> the Palace, which <hi>is</hi> in the Province of <hi>Elam:</hi> and I ſaw in a Viſion, that I was by the River <hi>V<g ref="char:EOLhyphen"/>lai.</hi>
+                     </p>
+                     <p n="3">3 Then I lifted up mine eyes, and looked, and behold, one Ram ſtanding before the River, and to him two horns: and the two Horns <hi>were</hi> high, but the one higher then the <note n="e" place="margin">
+                           <hi>Heb<g ref="char:punc">▪</g>
+                           </hi> the Se<g ref="char:EOLhyphen"/>cond.</note> other, and the higher came up laſt.</p>
+                     <p n="4">4 I ſaw the Ram puſhing Weſtward, and Northward, and Southward, ſo that no Beaſts could ſtand before him, neither was there any that could deliver out of his hand: but hee did according to his will, and magnified himſelf.</p>
+                     <p n="5">5 And I was conſidering, and behold, a He-Goat of the ſhee Goats came from the Weſt, upon the face of the whole earth, and touched not the earth: and that He-Goat had a horn of ſight between his eyes.</p>
+                     <p n="6">6 And hee came to the Ram <note n="f" place="margin">
+                           <hi>Heb.</hi> Maſter of thoſe two Horns.</note> that had thoſe two horns, which I had ſeen ſtanding before the river: and ran unto him in the fury of his power.</p>
+                     <p n="7">7 And I ſaw him come cloſe unto the Ram, and hee imbitter<g ref="char:EOLhyphen"/>ed himſelf againſt him, and hee ſmote the Ram, and brake his two horns and there was no power in the Ram to ſtand be<g ref="char:EOLhyphen"/>fore him: but hee caſt him down to the ground, and ſtamp<g ref="char:EOLhyphen"/>ed upon him, &amp; there was none that did deliver the Ram out of his hand.</p>
+                     <p n="8">
+                        <pb n="24" facs="tcp:118831:15"/>8 And the He-goat of the Shee-goats magnified himſelf: and when he ſtrengthened himſelf, that great Horn was broken, and in the room thereof aſcended a Viſion of four, towards the four Winds of Heaven.</p>
+                     <p n="9">9 And out of that one of them, came forth one Horn, <hi>even</hi> the youngeſt by birth: and it waxed very great, towards the South, and towards the Eaſt, and towards the pleaſant <hi>Land.</hi>
+                     </p>
+                     <p n="10">10 And it magnified it ſelf against the Hoſt of Heaven: and it caſt to the earth from that Hoſt, and from thoſe Stars of Heaven, and ſtamped upon them.</p>
+                     <p n="11">11 Yea it magnified it ſelf againſt the Prince of that Hoſt: and from him the daily Sacrifice was taken away, and the place of his Sanctuary was caſt away.</p>
+                     <p n="12">12 (And thou O Hoſt ſhalt be given up, becauſe of the daily <hi>ſacrifice</hi> with tranſgreſsion:) and it ſhall caſt down the truth to the ground, and it practiſed and proſpered.</p>
+                     <p n="13">13 Then I heard one Saint ſpeaking, and another Saint ſaid unto that certain <hi>Saint</hi> which ſpake, How long ſhall be this Viſi<g ref="char:EOLhyphen"/>on, <hi>concerning</hi> this daily <hi>Sacrifice,</hi> and this tranſgreſsion, making deſolate, to give both the Sanctuary and Hoſt <note n="g" place="margin">
+                           <hi>Heb.</hi> For a treading.</note> to be troden under foot?</p>
+                     <p n="14">14 And he ſaid unto me, until evening and morning, two thouſand and three hundred: then the Sanctuary ſhall <note n="h" place="margin">
+                           <hi>Heb.</hi> Ju<g ref="char:EOLhyphen"/>ſtified.</note> be cleanſed.</p>
+                     <p n="15">15 And it came to paſs, when I, <hi>even</hi> I <hi>Daniel,</hi> ſaw the Viſion: that I ſought the meaning, and behold, one ſtanding before me, as the appearance of a man.</p>
+                     <p n="16">16 And I heard the voyce of a man between <hi>the banks</hi> of <hi>Ulai:</hi> and he called and ſaid, <hi>Gabriel,</hi> make that very man to un<g ref="char:EOLhyphen"/>derſtand this <g ref="char:V">Ʋ</g>iſion.</p>
+                     <p n="17">17 And he came near where I ſtood, and when hee came I was afraid, and fell upon my face: and he ſaid to me, Un<g ref="char:EOLhyphen"/>derſtand O Son of Man, that towards the time of the end this <g ref="char:V">Ʋ</g>iſion <hi>will be.</hi>
+                     </p>
+                     <p n="18">18 And in his ſpeaking with me, I was overwhelmed with ſleep upon my face towards the earth: then he touched me, and cauſed me to ſtand <note n="i" place="margin">
+                           <hi>Heb.</hi> Vpon my ſtation.</note> upright.</p>
+                     <p n="19">
+                        <pb n="25" facs="tcp:118831:15"/>19 And he ſaid, Lo I am making thee to know, that which ſhall be in the <note n="k" place="margin">
+                           <hi>Heb</hi> after part of this in<g ref="char:EOLhyphen"/>dignation.</note> latter end of this indignation: for it <hi>ſhall be</hi> at the appointed time of the end.</p>
+                     <p n="20">20 That Ram which thou ſaweſt<g ref="char:punc">▪</g> the Lord of thoſe two Horns: <hi>are</hi> the Kings of <hi>Media</hi> and <hi>Perſia.</hi>
+                     </p>
+                     <p n="21">21 And that He-Goat, that ſhag-haired Goat, is the King of <hi>Graecia:</hi> and that great Horn that <hi>is</hi> between his eyes, is the very firſt King.</p>
+                     <p n="22">22 And that was broken, and four ſtood up in the room there<g ref="char:EOLhyphen"/>of: four Kingdoms ſhall ſtand up in the Nation, but not with his power.</p>
+                     <p n="23">23 And in the after part of their Kingdom, when thoſe tranſ<g ref="char:EOLhyphen"/>greſſors are compleat: a King of fierce countenance, and underſtanding dark ſentences, ſhall ſtand up.</p>
+                     <p n="24">24 And he ſhall ſtrengthen his power, but not with his power, and he ſhall deſtroy wonderfully, and ſhall proſper and pra<g ref="char:EOLhyphen"/>ctiſe: and he ſhall <note n="l" place="margin">
+                           <hi>Or</hi> Corrupt.</note> deſtroy the mighty, even the people of holy ones.</p>
+                     <p n="25">25 And through his policy, he ſhall alſo cauſe craft to proſper in his hand, and in his heart he ſhall magnifie himſelf, and by peace ſhall corrupt many: he ſhall alſo ſtand up againſt the Prince of Princes, but he ſhall be broken without hand.</p>
+                     <p n="26">26 And the Viſion of that Evening, and of that Morning (which hath been told) is truth: as <note n="m" place="margin">
+                           <hi>Heb.</hi> and thou.</note> for thee, ſhut up this viſion, becauſe it is for many days.</p>
+                     <p n="27">27 And I <hi>Daniel,</hi> fainted and was ſick <hi>ſome</hi> days, then I roſe up, and did the Kings buſineſs: and I was aſtoniſhed at the viſion, but none underſtood it.</p>
+                  </q>
+               </epigraph>
+               <div type="section">
+                  <head>The <hi>explication of the</hi> words.</head>
+                  <p>
+                     <hi>IN the third year of the reign of</hi> Belſhazzar <hi>the King</hi>] Theſe words do plainly hold forth to us the time when <hi>Daniel</hi> ſaw this Viſion; to wit, in the third year current of <hi>Belſhazzars</hi> reign, w<hi rend="sup">ch</hi>, as is commonly taken, was the laſt year of <hi>Belſhazzar</hi> &amp; the <hi>Babylonian</hi> Monarchy together. As Mr. <hi>Tillinghaſt</hi> well obſerves in his <hi>Knowledge of the times,</hi> p 134. line 14. But to ſay it was after <hi>Belſhazzar</hi> was ſlain, (and <hi>Darius</hi> and <hi>Cyrus</hi> did reign)
+<pb n="26" facs="tcp:118831:16"/> is more than the text will allow, and we may not adde unto the text. The words of the text do rather hold forth the contrary. For when it is ſaid, <hi>in the reign</hi> of <hi>Belſhazzar,</hi> it always in Scripture language (to my beſt remembrance) implies that that King was then living. And let it be conſidered how it can with reaſon be ſpoken, or how it can ſtand with truth, to ſay a man doth reign after he is dead? Beſides, <hi>Daniel</hi> dates his So<g ref="char:EOLhyphen"/>lemn Faſt and Humiliation, Chap. 9. and his Prophecy, Chap<g ref="char:EOLhyphen"/>ter 11. from the firſt of <hi>Darius.</hi> And what good reaſon can bee imagined, that <hi>Daniel</hi> ſhould chuſe to date this Viſion, from the reign of ſuch a profane Epicure as <hi>Belſhazzar,</hi> (ſuppoſe he had been dead) then from the reign either of <hi>Darius</hi> or <hi>Cyrus,</hi> who were propitious to the people of God, and then living? But I paſs it over, as a point that doth not at all hinder the main ſcope of the <hi>Viſion,</hi> which way ſoever you take it. Yet ſome little obſcurity it puts upon the Scriptures Chronology; for which cauſe I would in a few words give you the Chronology of <hi>Daniels</hi> Acts, for the help of ſuch as ſhall inquire into the ſame.</p>
+                  <p n="1">1 <hi>Daniel</hi> was carried Captive in the third year of the reign of <hi>Jehojakim,</hi> Dan. 1. 1. which cannot be underſtood of the <hi>third</hi> year of <hi>Jehojakims</hi> reign after his firſt Coronation; for the Fourth of <hi>Jehojakim</hi> was <hi>Nebuchadnezzars</hi> Firſt, <hi>Jer.</hi> 24. 1. And he cannot be imagined to carry away any Captives, ere him<g ref="char:EOLhyphen"/>ſelf was created Monarch. But this third year of which <hi>Daniel</hi> ſpeaks, it is the third year of <hi>Jehojakims</hi> adminiſtration and government, after he became tributary to <hi>Nebuchadnezzar,</hi> whereof we read, 2 <hi>King.</hi> 24. 1. And that was the laſt of <hi>Jeho<g ref="char:EOLhyphen"/>jakim,</hi> and the firſt of <hi>Jeconiah,</hi> with whom the ſeventy years Captivity do begin as I might demonſtrate at large. See <hi>Junius,</hi> &amp; <hi>Tremel.</hi> upon the firſt of <hi>Daniel.</hi>
+                  </p>
+                  <p n="2">2 <hi>Daniel</hi> in the beginning of the Fourth year of their Capti<g ref="char:EOLhyphen"/>vity was brought before the King. <hi>Dan.</hi> 1. 20.</p>
+                  <p n="3">3 Two years after this, to wit, in the latter end of the Fifth, or the beginning of the Sixth year of the Captivity, <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi> dreamed, <hi>Dan. 2. 1. And in the ſecond year (in the Kingdom of</hi> Nebuchadnezzar) Nebuchadnezzar <hi>dreamed dreams, &amp;c.</hi> This was not the ſecond year after <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> firſt began to reign (for the firſt Captivity when <hi>Daniel</hi>
+                     <pb n="27" facs="tcp:118831:16"/> alſo was carried captive, was in the ſeventh year of <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar Jer.</hi> 52. 28.) but the ſecond year, after <hi>Daniel</hi> and his companions were brought before the King, of which hee had ſpoken in the fore-going Chapter. Read <hi>Tremellius</hi> his anno<g ref="char:EOLhyphen"/>tations upon this place.</p>
+                  <p n="4">4 <hi>Daniel</hi> interprets <hi>Nebuchadnezzars</hi> Dream<g ref="char:punc">▪</g> and was advanced by him, <hi>Dan.</hi> 2. 19, 29, 48. This was <hi>Daniels</hi> firſt<note place="margin">1 Viſion.</note> Viſion, <hi>Dan.</hi> 2. 19.</p>
+                  <p n="5">5 <hi>Daniel</hi> was promoted to be ruler over the whole province of <hi>Babel, Dan.</hi> 2. 48. And continued in <hi>Babylon</hi> in that honour, untill the firſt year of <hi>Cyrus, Dan. 1: 21. And Daniel was, un<g ref="char:EOLhyphen"/>to the firſt year of Cyrus.</hi>
+                  </p>
+                  <p n="6">6 In the firſt year of <hi>Belſhazzar, Daniel</hi> had a <hi>Viſion</hi> of the four great Monarchies, <hi>Dan.</hi> 7. 1. And this was <hi>Daniels</hi> ſe<g ref="char:EOLhyphen"/>cond <hi>Viſion.</hi>
+                     <note place="margin">2 Viſion.</note>
+                  </p>
+                  <p n="7">7 In the third year of <hi>Belſhazzar</hi> (&amp; as it is moſt likely, a lit<g ref="char:EOLhyphen"/>tle before <hi>Belſhazzar</hi> was ſlain) <hi>Daniel</hi> had another Viſion of the <hi>Perſian</hi> and <hi>Grecian</hi> Monarchies, <hi>Dan.</hi> 8. 1. This was <hi>Daniels</hi> third <hi>Viſion.</hi>
+                     <note place="margin">3 Viſion.</note>
+                  </p>
+                  <p n="8">8 In this third year, even the day before <hi>Belſhazzar</hi> was ſlain, <hi>Daniel</hi> interprets <note n="n" place="margin">
+                        <hi>Therefore hee was then reſi<g ref="char:EOLhyphen"/>dent in</hi> Baby<g ref="char:EOLhyphen"/>lon.</note> the hand writing upon the wall, <hi>Da<g ref="char:EOLhyphen"/>niel</hi> 5. 26. And hee tells the King to his face, that God had weighed him, and found him too light, and divided his Kingdom to the <hi>Medes</hi> and <hi>Perſians.</hi> And yet (though <hi>Belſhazzar</hi> was a moſt prophane Epicure, and <hi>Daniel</hi> foretold no good but evill to him) hee was ſo far from committing him to priſon, under the notion of an incendiary, or ſeditious perſon, or one that was diſ<g ref="char:EOLhyphen"/>ſatisfyed with his Government, and preached againſt it, that on the contrary, hee promotes <hi>Daniel</hi> to higher honour, than ever his Grand-father <hi>Nebuchadnezzar</hi> had done; and commands <hi>that he ſhould be clothed with ſcarlet, &amp; a chain of gold put a<g ref="char:EOLhyphen"/>bout his neck, and that Proclamation ſhould be made, that hee</hi> ſhould <hi>be the third Ruler of the Kingdome, Dan.</hi> 5. verſ. 29. Will not this prophane Epicure riſe up in Judgement againſt ſome that are called Chriſtians, and have a form of Godlineſs without power?</p>
+                  <p n="9">9 In the firſt year of <hi>Darius</hi> (who was at that time 62 years of age, <hi>Dan. 5. 31.) Daniel</hi> kept a ſolemn faſt, after the taking of
+<pb n="28" facs="tcp:118831:17"/> 
+                     <hi>Babylon, Dan.</hi> 9. 1. And in the ſame year (which was alſo the firſt year of <note n="o" place="margin">
+                        <hi>As Mr.</hi> Til<g ref="char:EOLhyphen"/>linghaſt <hi>rightly obſerves,</hi> in his Knowledge the Times, <hi>p. 146. lin. 27. &amp; p. 147. lin. 17. &amp; p. 152. lin. 10.</hi>
+                     </note> 
+                     <hi>Cyrus, Ezr. 1. 1. Dan. 1 21.) Cyrus</hi> made a Pro<g ref="char:EOLhyphen"/>clamation and decree, for the <hi>Jews</hi> return out of <hi>Babylon,</hi> accor<g ref="char:EOLhyphen"/>ding to the word of the Lord, by the Prophet <hi>Eſay,</hi> 44. 28. Whereupon the <hi>Jews</hi> return to <hi>Jeruſalem, Ezr.</hi> 3. 1. But <hi>Da<g ref="char:EOLhyphen"/>niel</hi> that was now aged, went with old <hi>Darius</hi> into his own Country unto <hi>Achmeta,</hi> ſoon after <hi>Babylon</hi> was taken, and there hee was made chief of the three <hi>Preſidents</hi> of the Kingdom, <hi>Dan.</hi> 6. 1. But through the mallice of the Princes and Preſidents was caſt into the Lyons den, <hi>Dan.</hi> 6. 16.</p>
+                  <p n="10">10 In the third year of <hi>Cyrus, (Darius</hi> now being dead) <hi>Daniel</hi> had his laſt Viſion, <hi>Dan.</hi> 10. 1. which <hi>Viſion</hi> ſeems to<note place="margin">4 Viſion.</note> be a year or two after <hi>Darius</hi> his death, and (as Mr. <hi>Tillinghaſt</hi> well obſerves, in his <hi>Knowledge of the times,</hi> pag. 151, 152.) not long before <hi>Daniel</hi> dyed; as may be collected from <hi>Dan.</hi> 12. 9, 13. And this I take to be the true and plain Chronology of the remarkable paſſages in <hi>Daniels</hi> Prophecy.</p>
+                  <p>I ſhall only add a few words, touching the place where <hi>Da<g ref="char:EOLhyphen"/>niel</hi> was at the time when hee ſaw this <hi>Viſion.</hi> It is ſaid, it was <hi>in the third year of Belſhazzar his reign.</hi> Now this <hi>Belſhaz<g ref="char:EOLhyphen"/>zar</hi> was Reſident in <hi>Babylon,</hi> as we read <hi>Dan.</hi> 5. 2. And ſo alſo was <hi>Daniel, Dan.</hi> 1. 21. and 5. 13. And therefore <hi>Daniel,</hi> when this <hi>Viſion</hi> 
+                     <note n="p" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> was ſhewed him, was locally and perſonally preſent in <hi>Babylon.</hi> And as I ſuppoſe, it might well be, after the ſiedg was begunne. For though ſome do think it incongruous, to ſay, that <hi>Daniel</hi> ſaw himſelf in two places, to wit, at <hi>Shuſhan,</hi> and by the river <hi>Vlai</hi> in a <hi>Viſion,</hi> yet it can be no abſurdity to imagine, that <hi>Daniel</hi> being in perſon at <hi>Babylon,</hi> might in a <hi>Viſion</hi> apprehend himſelf; as if hee had been at the Palace of <hi>Shuſhan,</hi> ſcituat upon the river <hi>Vlai;</hi> and there beholding a <hi>Ram</hi> with two Horns, and a <hi>ſhag-haired Goat</hi> with one horn, conflicting together &amp;c. For in a <hi>Viſion,</hi> hee might be ſhewed the one as well as the other <note n="q" place="margin">Mat. 4. 8.</note>. And yet there was neither <hi>Ram,</hi> nor <hi>ſhag-haired Goat</hi> really and locally, nor was hee really nor locally at the palace of <hi>Shuſhan,</hi> or by the river <hi>Vlai.</hi> Only theſe things were repreſented to <hi>Daniel</hi> in a <hi>Viſion.</hi>
+                  </p>
+                  <p>
+                     <hi>After that which appeared at the beginning.</hi>] To wit, at the beginning of <hi>Belſhazzars</hi> reign, mentioned in the chapter fore<g ref="char:EOLhyphen"/>going.
+<pb n="29" facs="tcp:118831:17"/> But ere wee paſſe the words, let the phraſe be well ob<g ref="char:EOLhyphen"/>ſerved. For who would not underſtand without telling, that the third year of <hi>Belſhazzar</hi> was after the firſt? Doubleſſe there<g ref="char:EOLhyphen"/>fore, the Holy Ghoſt intended to teach us ſomething by it, when hee added theſe words, <hi>after that which appeared to mee at the beginning.</hi> The meaning I conceive to be this, that this was the next Viſion which <hi>Daniel</hi> had in <hi>Belſhazzars</hi> life time, af<g ref="char:EOLhyphen"/>ter that which is mentioned in the ſeventh chapter. It was not ſe<g ref="char:EOLhyphen"/>cond in number, which <hi>Daniel</hi> had ſeen, but the third. More<g ref="char:EOLhyphen"/>over theſe words do intimate unto us, that this Viſion was in or<g ref="char:EOLhyphen"/>der and time, before that ſolemn faſt which <hi>Daniel</hi> kept, im<g ref="char:EOLhyphen"/>mediately after the taking of <hi>Babylon,</hi> Chapt. 9. And therefore muſt needs be underſtood, to be ſeen of <hi>Daniel</hi> in <hi>Babylon,</hi> in the life time of <hi>Belſhazzar.</hi>
+                  </p>
+                  <p>Verſ, 2. <hi>And I ſaw in a Viſion.</hi>] Theſe words do put the matter out of queſtion, whether <hi>Daniel</hi> was locally at <hi>Shuſhan by the river Vlai,</hi> or that hee was there viſionally only. Conſi<g ref="char:EOLhyphen"/>der therefore the form of ſpeech, and the diſtinguiſhing accents. For hee doth not ſay, I was in <hi>Shuſhan</hi> the Palace, and I ſaw in a Viſion, as I walked by the river <hi>Vlai</hi> &amp;c. But <hi>I ſaw in a Viſion,</hi> and there makes his diſtinction. And what did <hi>Daniel</hi> ſee in a <hi>Viſion?</hi> The next words tell you, <hi>hee ſaw himſelf in the Palace of Shuſhan, which is in the Province of Elam:</hi> And there makes his great diſtinction.</p>
+                  <p>And what elſe did hee ſee in a <hi>Viſion? Hee ſaw in a Viſion that hee was by the river Vlai.</hi> And what elſe did hee ſee <hi>viſionally? Hee lift up his eyes and looked, and behold a Ram ſtanding by the river &amp;c.</hi> Whence wee may argue, That <hi>as Daniel</hi> ſaw the <hi>Ram,</hi> and the <hi>ſhag-haired Goat,</hi> ſo hee ſaw himſelf at the palace of <hi>Shuſhan,</hi> and by the river <hi>Vlai.</hi> But hee ſaw the one <hi>Viſionally,</hi> and therefore hee ſaw the other viſionally alſo. And for that end it is, that hee prefixeth thoſe words (<hi>I ſaw in a Viſion</hi>) unto his whole relation; making a great diſtinction of theſe words, with the Accent Saegoltha, and his concomitant Zarkah.</p>
+                  <p>Verſ. 3. <hi>There ſtood a Ram before the River</hi> &amp;c.] This <hi>Ram with two Horns,</hi> expreſſeth the Second Monarchy, conſiſ<g ref="char:EOLhyphen"/>ting of two parts, the <hi>Medes</hi> and the <hi>Perſians.</hi> And both of them
+<pb n="30" facs="tcp:118831:18"/> are deſcribed &amp; differenced by their Characters. The one, to wit, the <hi>Perſians</hi> do exceed the <hi>Medes</hi> in power and proweſſe, wherefore it is ſaid, <hi>it was higher than the other.</hi> The other, to wit the <hi>Medes,</hi> were more antient than the <hi>Perſians,</hi> where<g ref="char:EOLhyphen"/>fore it is ſaid of the <hi>Perſians, the higher came up laſt.</hi> And ſo the Angel interprets <hi>the Ram with two Horns,</hi> giving prehemi<g ref="char:EOLhyphen"/>nence of antiquity unto the <hi>Medes,</hi> verſ. 20. Theſe two Kings being joyned together, (as they were in <hi>Darius,</hi> and <hi>Cyrus</hi> his Nephew) they grow ſo potent and prevalent, <hi>that none of the Beaſts of the field,</hi> none of the other Nations, <hi>could ſtand before them, neither could any deliver out of their hand,</hi> verſ. 4.</p>
+                  <p>Verſ. 5. <hi>Behold an he-Goat of the ſhe-Goats came from the Weſt</hi> &amp;c.] Theſe words denote unto us the Third or <hi>Grecian</hi> Monarchy, by giving us (in the firſt place) a brief deſcription of the firſt Prince or Monarch. Whoſe Characters are theſe.</p>
+                  <p n="1">1 Hee is called a hee-Goat, and verſ. 20. hee is called a <hi>ſhag<g ref="char:EOLhyphen"/>haired Goat,</hi> thereby diſtinguiſhing him from a kid or young Goat. To ſhew the grown ſtrength of this Prince.</p>
+                  <p n="2">2 His Country in regard of the ſituation thereof, was Weſterly from <hi>Perſia, hee came from the Weſt.</hi> Verſe 5.</p>
+                  <p n="3">3 Hee is of an ambitious ſpirit to conquer the whole world, wherefore it is ſaid, <hi>he came upon all the earth.</hi>
+                  </p>
+                  <p n="4">4 Hee is irreſiſtible in regard of his power, <hi>none touched him in the earth.</hi> And Verſ. 7. <hi>there was none that could deli<g ref="char:EOLhyphen"/>ver out of his hand.</hi>
+                  </p>
+                  <p n="5">5 His heroicall exploits are of publick obſervation in the world, and therefore hee is called a <hi>Horn of ſight,</hi> verſ. 5.</p>
+                  <p n="6">6 Hee ingageth in warre with the <hi>Perſian</hi> Prince. <hi>He came to the Ram, and ran upon him in the fury of his power</hi> verſ. 6. which congreſſe is amplyfied by his invaſion of the <hi>Perſian</hi> in his own Country, <hi>hee came cloſe</hi> to him.</p>
+                  <p n="2">2 By the fierceneſſe of his ſpirit, <hi>hee imbittered himſelf a<g ref="char:EOLhyphen"/>gainſt him.</hi>
+                  </p>
+                  <p n="3">3 By the iſſue of this engagement, <hi>hee ſmote the Ram, and brake his Horns,</hi> which argues the expiration and extirpation of that <hi>Perſian</hi> Monarchy.</p>
+                  <p n="7">
+                     <pb n="31" facs="tcp:118831:18"/>7 And Laſtly, Hee is deſcribed by his death, and the diviſion of his Kingdome into four parts, verſ. 8. and Chapter 11. 4. <hi>The great Horn was broken, and in the room thereof aſcended in Viſion four.</hi> Which four are diſtinguiſhed by a diſtribution of them, <hi>unto the four quarters of heaven, verſ.</hi> 8. and Chap. 11. 4. All which characters do very aptly ſet forth the <hi>Grecian</hi> Monarchy, under their firſt Prince <hi>Alexander</hi> the great, and al<g ref="char:EOLhyphen"/>ſo after his death.</p>
+                  <p>For firſt of all <hi>Alexander</hi> was <hi>a ſhag-haired Goat,</hi> a ſtrong and puiſſant Prince.</p>
+                  <p n="2">2 Hee was by Originall of <hi>Macedon,</hi> which lies weſt from <hi>Perſia.</hi>
+                  </p>
+                  <p n="3">3 Hee was ambitious of conquering, as ſtories report, and when hee had conquered the world, hee wept becauſe hee had no more worlds to conquer. I might inſtance the like in other Characters, but that it is confeſſed of all, that <hi>Alexander</hi> was the Hee-Goat here ſpoken of. And after his death, his Kingdome were divided into four, as is generally acknowledged. Which four was afterwards reduced into two, to wit, the King<g ref="char:EOLhyphen"/>dome of <hi>Macedon,</hi> and the Kingdome of <hi>Syria,</hi> reſembling the two leggs of a man, as it was ſhewed in the Dream of <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar, Dan.</hi> 2.</p>
+                  <p>Verſ. 9. <hi>And out of THAT one of them.</hi>] The particle THAT, is not added for ornament of ſpeech only, but for <hi>de<g ref="char:EOLhyphen"/>monſtration,</hi> To ſhew us, out of which of the four ſucceſſors of <hi>Alexander,</hi> the <hi>Horn</hi> hereafter inſiſted upon, ſhould deſcend, viz. out of THAT which hath his ſecond Sonne to ſucceed in the <hi>Throne,</hi> and not out of any of the reſt. So carefull was the Holy Ghoſt to point out unto us (as with the finger) from which of the four ſucceſſors of <hi>Alexander,</hi> this Horn ſhould pro<g ref="char:EOLhyphen"/>ceed. That we might not be miſtaken in the interpretation &amp; Ap<g ref="char:EOLhyphen"/>plication thereof.</p>
+                  <p>
+                     <hi>Came forth an Horn,</hi> even <hi>the youngeſt by birth.</hi>] It is commonly tranſlated <hi>a Little Horn,</hi> but not ſo properly. For the word, <note n="r" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> whether you take it for an <hi>adjective,</hi> as moſt do (the letter Tzadde being affected with <hi>dageſch forte,</hi> beſides rule) or whether you take it for a mixt word contracted with <hi>dageſch forte</hi> 
+                     <note n="ſ" place="margin">
+                        <hi>As if you ſhould ſay</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>inſtead of</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> or as we ſpeak the <hi>leaſt,</hi> for <hi>leaſt by Birth.</hi>
+                     </note> which is a thing not unuſuall to the Hebrew tongue, it
+<pb n="32" facs="tcp:118831:19"/> greatly matters not. For this you ſhall conſtantly find in Scrip<g ref="char:EOLhyphen"/>ture, that where ever this word (<hi>little</hi> or <hi>leaſt</hi>) is attributed unto perſons, it is alwaies taken for the youngeſt by birth, and ſo it ought to be here rendred. And in this reſpect alſo <hi>Charls Stuart</hi> is called a little Horn, becauſe hee was not his Fathers firſt born, but the younger brother. This word (<hi>little</hi> or <hi>leaſt</hi>) doth not therefore import, that hee was leaſt in regard of dominion and power, as ſome have been apt to miſtake, but <hi>leaſt</hi> or youngeſt in regard of birth.</p>
+                  <p>Verſ. 10. <hi>And it waxed very great,</hi>] or <hi>it made great the remnant.</hi> The meaning is, that out of thoſe Kingdoms, which were yet remaining to this <hi>Horn</hi> of <hi>Alexanders</hi> Empire, hee made great preparations againſt <hi>Egypt</hi> in the South, and <hi>Perſia</hi> in the Eaſt, and againſt <hi>Judea</hi> the glory of all lands, as it is called, <hi>Ezech.</hi> 20. 6, 15. And well may it be here called a <hi>rem<g ref="char:EOLhyphen"/>nant.</hi> For though <hi>Antiochus Epiphanes</hi> was a great Prince, yet about this time the Kingdome of <hi>Macedon</hi> (one of the thighs of <hi>Nebuchadnezzars Image</hi>) was ſubdued to the <hi>Romans,</hi> and made a Province to <hi>Rome.</hi> So that the braſen Empire of <hi>Grecia,</hi> ſtood but upon one thigh, (as I may ſay) according as you find it expreſſed in <hi>Nebuchadnezzars</hi> Dream, <hi>Dan. 2. 32. His thigh of Braſſe,</hi> in the ſingular number. Which doth in ſpecial relate to theſe times of <hi>Antiochus</hi> (as I conceive) who was indeed a thigh of braſſe, and greatly annoyed the Church of Chriſt, as ſtories do witneſſe.</p>
+                  <p>Now this Horn <hi>greatned the remnant,</hi> or made great pre<g ref="char:EOLhyphen"/>parations for warre, but ſpecially againſt the people of God in <hi>Judea,</hi> who are called <hi>the Hoſt of heaven.</hi> The ſad iſſue where<g ref="char:EOLhyphen"/>of is, <hi>that hee caſt ſome of the Hoſt and of the Starres to the ground.</hi> Which doth imply the Apoſtacy of ſome eminent ones in the Church, through the ſubtile practiſes of this Prince.</p>
+                  <p>Verſ. 11. <hi>He magnified himſelf to the Prince of the Hoſt.</hi>] Theſe words hold forth the inward pride of his Spirit, together with the object thereof. His inward pride is expreſſed in theſe words, <hi>hee magnified himſelf.</hi> The word here uſed, in that <note n="t" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> conjugation doth imply the great ſwelling pride of his heart, and the great thoughts hee had of himſelf. And the object a<g ref="char:EOLhyphen"/>gainſt which hee thus magnifieth himſelf, is, <hi>the Prince of the
+<pb n="33" facs="tcp:118831:19"/> Hoſt.</hi> Whereby you may underſtand the chief leader of Gods people in thoſe daies, or Chriſt himſelf in his vicegerent. <hi>And from him the dayly ſacrifice was taken away,</hi>] our tranſlati<g ref="char:EOLhyphen"/>on reads it <hi>by him.</hi> As who ſhould ſay, by the Horn here ſpok<g ref="char:EOLhyphen"/>en of, the dayly ſacrifice was taken away. And that is a truth. For the Horn was an inſtrument of taking away the dayly Sacri<g ref="char:EOLhyphen"/>fice. But then it would have been more proper to have uſed a <hi>pronowne</hi> of the faeminine gender <note n="u" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>, and alſo it would have agreed with the word <hi>Horn,</hi> which is of the ſame gender. Now ſince the Prophet uſeth a <hi>Pronown</hi> of the Maſculine gender <note n="w" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>, I conceive it is more properly rendred <hi>from him.</hi> As if you ſhould ſay, the dayly Sacrifice was taken <hi>from</hi> this Prince of the Hoſt, by that Horn. And ſo there will be a congruity in gender betwixt the Nown and the Pronown. In like manner the words following have reference unto the <hi>Prince of the Hoſt,</hi> when it is ſaid, <hi>the Place of his Sanctuary</hi> was caſt away. So then the meaning of the words is this. That by <hi>this Horn, this yonger Bro<g ref="char:EOLhyphen"/>ther,</hi> both the inſtituted worſhip of God, was taken away from Chriſt, and from the Prince of the Hoſt, and from the people, and the place alſo of his ſanctuary was caſt away, unto the ſervice of Idols. He doth not ſay, it was <hi>caſt down,</hi> as our Tranſlation reads it: for wee know it ſtood untill the daies of our Saviour, and ſome years after. But it was <hi>caſt away,</hi> and converted, or rather perverted, to another uſe than Chriſt had ordained. And this I conceive to be the true meaning of that phraſe.</p>
+                  <p>Verſ. 12. <hi>And thou O Hoſt ſhalt be given up, becauſe of the dayly</hi> Sacrifice <hi>with trangreſſions</hi>]. Theſe words contain the reaſon, why God did permit this <hi>Horn</hi> to prevail ſo farre, to the corrupting of his worſhip. It was becauſe of the dayly Sacrifice accompanied with trangreſſion againſt Light, as the word <note n="x" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> doth properly ſignifie. This reaſon is expreſſed by way of threatning unto the <hi>Hoſt. And thou O Hoſt ſhalt be gi<g ref="char:EOLhyphen"/>ven up.</hi> For ſo I conceive the words ought to be rendred, and not as our tranſlation reads it, <hi>an Hoſt was given him,</hi> to wit, unto this Horn; my reaſons are theſe.</p>
+                  <p>Firſt, The word <hi>Hoſt,</hi> in all the reſt of this Chapter, is ſpoken of the people of God, and not of the <hi>Militia</hi> belonging to the adverſary.</p>
+                  <pb n="34" facs="tcp:118831:20"/>
+                  <p>2 The word <hi>Hoſt</hi> is of the Maſculine gender, and the Verb <hi>given,</hi> (if you take it to be the third perſon ſingular) is of the Faeminine Gender, which were in that language improper, unleſs the Prophet had intended thereby to expreſs the Faeminine Spirit of this Horns <hi>Militia,</hi> which cannot be the Prophets meaning, nor can it ſtand with the prevalency of this Horns Militia, which <hi>caſt the truth to the earth, and prevailed and proſpered.</hi> Where<g ref="char:EOLhyphen"/>fore I take it to be more proper, to render the word in the ſecond perſon ſingular of the Maſculine Gender, <hi>and thou O Hoſt ſhalt be given up.</hi> As if the Prophet had ſpoken to the chief Captain of the Hoſt, and ſaid, that becauſe of the iniquity of their Holy Offerings, God would give both thee and them up into the hands of <hi>this Horn.</hi> And if you render the words thus, there will be a congruity both in <hi>perſon</hi> and <hi>gender</hi> betwixt the Verb and the Subſtantive.</p>
+                  <p>Verſ. 13. <hi>How long ſhall this Viſion be, concerning this day<g ref="char:EOLhyphen"/>ly Sacrifice, and this deſolating tranſgreſſion, to give both the Sanctuary and the Hoſt to be troden under foot?</hi> The mat<g ref="char:EOLhyphen"/>ter here inquired, is, how long God will permit the Sanctuary and the Hoſt, (whereof hee had ſpoken verſ. 10, 11.) to be for a treading, or to be troden under foot? and let it be carefully obſerv<g ref="char:EOLhyphen"/>ed. For according to the Queſtion, ſo muſt wee neceſſarily un<g ref="char:EOLhyphen"/>derſtand the Anſwer to be. The want of due attention whereunto, hath given occaſion (as I conceive) to ſome godly men, to extend the <hi>Anſwer,</hi> from the end of the firſt Monarchy, unto the end of the Fourth, which they eſteem will amount unto 2300 Years. But let it be kept in memory (till wee come to ſpeak of the next verſ.) that the <hi>Queſtion</hi> is not, how long it ſhould be from the time of this Viſion, (in the third year of <hi>Belſhazzar</hi>) unto the end of the fourth Monarchy, or to the begining of the Fifth? For then wee might have expected the anſwer would have been pro<g ref="char:EOLhyphen"/>portionable. But that was not the Queſtion which the ſaints here makes. His heart it ſeems was deeply affected with the ſad calamities threatned againſt the Hoſt, and againſt the Tem<g ref="char:EOLhyphen"/>ple, and againſt the inſtituted worſhip of God, and therefore hee makes inquiry, how long this ſhould continue? Whereun<g ref="char:EOLhyphen"/>to the anſwer is given in the next enſuing verſe.</p>
+                  <p>Verſ. 14. <hi>And hee ſaid unto mee, untill evening morning
+<pb n="35" facs="tcp:118831:20"/> two thouſand and three hundred, then ſhall the Sanctuary be cleanſed</hi> [or juſtified.] Remember now what the Queſtion was, how long God would permit this Horn thus to prevail againſt the Hoſt, and againſt his inſtituted worſhip and Temple? And here you have a plain and full ſolution of the Queſtion, w<hi rend="sup">ch</hi> we may eaſily diſcern by the Angells anſwer, if we mark narrowly his words. For he doth not ſay, then ſhall the Fourth Monarchy end, or then ſhall the fifth Monarchy begin: <hi>but then ſhall the Sanctu<g ref="char:EOLhyphen"/>ary be juſtified</hi> or cleanſed, which before <hi>had been caſt away</hi> to Idols, and polluted with the Image of <hi>Jupiter Olympius,</hi> and with ſtrange Sacrifices.</p>
+                  <p>Now in this anſwer let two things be conſidered, and they wil fully clear the Queſtion.</p>
+                  <p n="1">1 The durance or continuance of time, to give both the Sanc<g ref="char:EOLhyphen"/>tuary and the Hoſt to be troden under foot.</p>
+                  <p n="2">2 The end and expiration of that time.</p>
+                  <p>For the firſt, to wit, the durance of this calamity. It is ſaid, <hi>untill two thouſand and three hundred evening morning.</hi> Which is as much, as if he had ſaid, in our phraſe of ſpeech, it ſhall continue for the ſpace of two thouſand and three hundred ar<g ref="char:EOLhyphen"/>tificiall daies. I know the Scripture uſeth not the word <hi>artifici<g ref="char:EOLhyphen"/>all,</hi> yet it owneth the diſtribution of the <hi>naturall day,</hi> into two parts; The light part, and the dark part thereof, <hi>John.</hi> 11. 9, 10. Are there not twelve hours in the day? If a man walk in the day hee ſtumbles not, becauſe hee ſeeth the light of this world: But if a man walk in the night, hee ſtumbleth, becauſe there is no light in him. And ſuch was the diſtribution from the beginning, <hi>Gen.</hi> 1. 5. And God called the light, Day, and the darkneſſe hee called Night, and the Evening was, and the morning was, the firſt Day. Theſe two parts (which wee commonly call artificiall) added together, do conſtitute a whole day of twenty four hours, which wee call a <hi>Naturall day.</hi> In ſumme therefore the Angels anſwer amounts to thus much, to ſatisfy the Saint who made inquiry, how long God would give the Hoſt, and the Sanctuary to be troden under foot? Namely for the ſpace of 2300 <hi>artifi<g ref="char:EOLhyphen"/>ciall daies.</hi> Which is all one as if hee had ſaid 1150 naturall daies, or three years and two months. For though in this verſe there be an Ellipſis, or defect, of the Conjunction <hi>Vau,</hi> or the
+<pb n="36" facs="tcp:118831:21"/> Demonſtrative Article <hi>He,</hi> yet in the 26 verſe you have a ſupple<g ref="char:EOLhyphen"/>ment of both. Where it is ſaid, <hi>and the Viſion of THAT Even<g ref="char:EOLhyphen"/>ing, and of THAT morning is truth.</hi> It is not therefore rightly tranſlated, 2300 daies, as in our new tranſlation, <hi>which hath given occaſion to ſome to miſtake the Angells anſwer, and to think hee here ſpeaks of</hi> propheticall <hi>daies.</hi> But ſearch wee the Scriptures throughout, and wee ſhall never find the Holy Ghoſt expreſſing propheticall daies in that phraſe of ſpeech, putting an <hi>Evening</hi> for a year, and a <hi>Morning</hi> for a year. Nor were it proper ſo to ſpeak, becauſe there is no <hi>revolution</hi> of the Sun in twelve hours ſpace. Alwaies when Scripture ſpeaks of pro<g ref="char:EOLhyphen"/>pheticall daies, in the Old Teſtament, he uſeth the word <hi>[Jo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>] or day.</hi> As <hi>Ezech.</hi> 4, 5, 6. Three hundred and ninty daies, a day for a year. And forty daies, putting a day for a year. So <hi>Dan.</hi> 11. 12. Wherefore I conclude, that (ſince no inſtance can be given from Scripture, where Evening and Morning are put for a year, but for parts of a <hi>Naturall</hi> day) wee are to underſtand the Angell, to ſpeak of 2300 <hi>artificiall</hi> daies, diſtinctly and or<g ref="char:EOLhyphen"/>derly ſucceeding one another.</p>
+                  <p>Secondly, For the time of the end, it is expreſſed in theſe words, <hi>then ſhall the Sanctuary be juſtified</hi> or cleanſed. As if hee ſhould have ſaid; this juſtifying of the Sanctuary, doth ter<g ref="char:EOLhyphen"/>minate the number of daies foretold. And having the determi<g ref="char:EOLhyphen"/>nate period given, it is as eaſie a matter (after the accompliſh<g ref="char:EOLhyphen"/>ment) to account backward to the beginning, as it would be to account forward, from the beginning to the end.</p>
+                  <p>I am not ignorant that ſome godly men do apprehend theſe 2300 daies to be ſpoken of propheticall daies or years: and they make their account to beginne, either with the <hi>Perſian</hi> Monar<g ref="char:EOLhyphen"/>chy, or with the <hi>Babyloniſh</hi> Captivity. But I cannot conſent with them, unleſſe I could conſent unto ſuch a ſence of the origi<g ref="char:EOLhyphen"/>nal words, as I can no where find in Scripture. Otherwiſe I ſhould rejoyce to concurr with ſuch worthies, whoſe praiſe is in the Goſpell, and men whom I do ſo highly honour in mine heart, as fellow witneſſes.</p>
+                  <p>But let mee be excuſed if I cleave more cloſe to the Scriptures than to them. <hi>Amicus Plato, amicus Socrates, ſed magis a<g ref="char:EOLhyphen"/>mica veritas.</hi> I ſhall leave every one liberty to abound in his
+<pb n="37" facs="tcp:118831:21"/> own ſence, till more convincing light ſhall appear, which may give juſt occaſion to entertain ſecond thoughts. And for help in this caſe I ſhall leave theſe <hi>Queries</hi> upon that interpretati<g ref="char:EOLhyphen"/>on.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Quere. </seg>1</label> Firſt, If wee beginne the account with the Capivity, then let it be inquired, how it can ſtand with the nature of a <hi>Viſion,</hi> to runne backward from the time of the Viſion, to ſeek an Epo<g ref="char:EOLhyphen"/>cha, or beginning of ſuch an Account? For as much as Viſions are repreſentations of things preſent or to come, to the eye either of the body, or of the mind; but not of things paſt.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Quere. </seg>2</label> Secondly, If wee beginne the account with <hi>Cyrus,</hi> let it be in<g ref="char:EOLhyphen"/>quired, how it can be ſaid of the reign of <hi>Cyrus, that the Hoſt</hi> (of Heaven, the Saints) <hi>and the Sanctuary, were given unto treading?</hi> Could the Sanctuary (the Temple) be given to a treading in the firſt of <hi>Cyrus,</hi> before it was built? And did not <hi>Cyrus,</hi> in his firſt year, command that the Temple ſhould be built? and how can that agree with the Text, which ſaith, <hi>it was gi<g ref="char:EOLhyphen"/>ven for a treading?</hi> Again, how can it be ſaid of the Hoſt, (the people of God) that they were given for a treading? Did not <hi>Cyrus,</hi> in his firſt year, proclaim liberty to them? And how can that be called a <hi>treading under foot?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> If any ſay, there happened an obſtruction of the Temple<g ref="char:EOLhyphen"/>work ſoon after they beganne, and Gods people were troden upon with the falſe accuſations of <hi>Tobiah</hi> and <hi>Sanballat</hi> &amp;c. <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> Yet let it be conſidered, how ſuitable, or unſuitable, this will be to the number 2300, and to the end of the ſame, whether you under<g ref="char:EOLhyphen"/>ſtand them to be Naturall, or propheticall daies. For if you take them to be 2300 naturall daies, wee know the Temple was hindred much longer time in the re-edifying thereof. And if you take it for 2300 years, wee know it was not neer ſo long time from the hindrance of the Temple untill the finiſhing of it, in the daies of <hi>Artaxerxes,</hi> or the cleanſing of it in the daies of <hi>Anti<g ref="char:EOLhyphen"/>ochus Epiphanes.</hi> So that I ſee not how that interpretation can any way ſuit with the words of the Text. And if it be ſaid, the Temple is to be taken in a ſpirituall ſence, and the cleanſing of the Temple alſo, which cannot be expected to be accompliſh<g ref="char:EOLhyphen"/>ed till the end of the Fourth Monarchy, how can that ſtand with the Angells words which ſaith, the Temple ſhall be juſtified in the
+<pb n="38" facs="tcp:118831:22"/> daies of one of <hi>Alexanders</hi> ſucceſſors, long before the fourth Monarchy had a <hi>Beeing.</hi>
+                  </p>
+                  <p>Verſ. 17. <hi>Towards the time of the end, this Viſion will be.</hi>] The Angel, that he might beget in <hi>Daniel,</hi> &amp; alſo in us, a right underſtanding of this <hi>Viſion,</hi> tells us, that the ſeaſon in which theſe troubles ſhould happen, <hi>ſhal be towards the time of the end</hi> What is the meaning of that? Read the 23 verſ. &amp; there it is ſaid, <hi>that in the after part</hi> of their Kingdom (who ſucceeded <hi>Alexan<g ref="char:EOLhyphen"/>der</hi>) this Horn ſhal ariſe, that ſhal tread the Sanctuary and the Hoſt under foot, 2300 <hi>Evenings and Mornings.</hi> Which <hi>after part,</hi> is in this preſent verſe called, <hi>towards the time of the end,</hi> and verſ. 19, it is called, <hi>the appointed time of the end.</hi>
+                  </p>
+                  <p>Verſ. 22. <hi>But not in his power.</hi>] That is, not with the pow<g ref="char:EOLhyphen"/>er and might of <hi>Alexander.</hi> As if hee ſhould ſay, theſe four Kingdoms, which ſtand up after <hi>Alexander,</hi> ſhall not be com<g ref="char:EOLhyphen"/>parable to him for power. This is ſpoken of all the four King<g ref="char:EOLhyphen"/>doms that ſucceeded <hi>Alexander.</hi> But the ſame words are ſpoken of <hi>that Horn, which was a King of fierce countenance, a younger Brother,</hi> He ſhall ſtrengthen himſelf and ſhalbe a pu<g ref="char:EOLhyphen"/>iſſant Prince, <hi>but not with his power,</hi> verſ. 24. The meaning is, this Horn ſhalbe a potent Prince, but not comparable to <hi>Alexan<g ref="char:EOLhyphen"/>der.</hi> For ſo I underſtand the phraſe to import in both the verſes.</p>
+                  <p>Verſ. 24. <hi>And ſhall corrupt</hi> (or deſtroy) <hi>the mighty, even the people of Saints.</hi>] That is, by corrupting them he ſhall deſtroy them. For the word doth ſignify both to corrupt and deſtroy. And how doth hee corrupt them? <hi>Anſw.</hi> By peace and tran<g ref="char:EOLhyphen"/>quillity, verſ. 25. granting them a quiet poſſeſſion of their out<g ref="char:EOLhyphen"/>ward eſtates, ſo be it they will forſake the Lord and his pure worſhip, to follow after Idolls. This is the conſtant Spirit of Image-government, to ſet up Image-worſhip of one kind or o<g ref="char:EOLhyphen"/>ther, ſuch as ſuits their own fancies, and their Government beſt.</p>
+                  <p>Verſ. 26. <hi>Shut up the Viſion, becauſe it is for many daies.</hi>] Not propheticall daies or years, as hath been ſhewed; but <hi>Na<g ref="char:EOLhyphen"/>turall</hi> or <hi>Artificiall daies.</hi> This phraſe (<hi>many daies</hi>) hath given occaſion to ſome, to apprehend, that the 2300 evenings and mornings, muſt needs be underſtood of a longer tract of time,
+<pb n="39" facs="tcp:118831:22"/> than ſo many artificiall daies and nights, or three years and two months. But let this phraſe of ſpeech be weighed in theſe Scrip<g ref="char:EOLhyphen"/>tures following. It is written <hi>Lev. 15. 25. If a woman have an iſſue of blood</hi> 
+                     <note n="y" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>many daies</hi> &amp;c. And 2 <hi>Sam. 14, 2. Be thou as a woman that had mourned for the dead</hi> many daies. And <hi>Deut.</hi> 20. 19. when thou ſhalt beſiedg a City <hi>many daies.</hi> And 1 <hi>King 2. 38, 39. And Shimei dwelt in Jeruſalem</hi> many daies. <hi>And it came to paſſe at the end of three years</hi> &amp;c. So that it is apparent from theſe inſtances of Scripture, and many more which might be given, that in Scripture-language three years are ac<g ref="char:EOLhyphen"/>counted <hi>many daies:</hi> and ſometimes alſo they are uſed to expreſſe a ſhorter ſeaſon. Wherefore this phraſe cannot argue the num<g ref="char:EOLhyphen"/>ber 2300 to be the greateſt Epocha in Scripture, as ſome have apprehended. Nor is it indeed the greateſt number of daies in Scripture. For 2300 evenings and mornings make but 1150 daies, which falleth far ſhort of 1260 daies in the <hi>Revelation,</hi> and 1290 daies, <hi>Dan.</hi> 12. 11. and of 1335 daies, <hi>Dan.</hi> 12. 12. But let this ſuffice to remove away the occaſion of ſtumbling, from ſuch as have not ſearched diligently the uſe of that phraſe, <hi>Many daies.</hi>
+                  </p>
+                  <p>Verſ. 27. <hi>And I Daniel fainted and was ſick</hi> ſome <hi>daies,</hi>] The ſad calamities that were to befall Gods people did ſo deep<g ref="char:EOLhyphen"/>ly ſeize upon the Prophets ſpirit, <hi>that hee fainted and was ſick.</hi> How long he doth not expreſſe; but ſome <hi>daies.</hi> After<g ref="char:EOLhyphen"/>ward, <hi>Daniel</hi> being Ruler of the Province of <hi>Babylon,</hi> and con<g ref="char:EOLhyphen"/>tinuing in that place to this time, as hath been ſhewed, <hi>hee roſe up, and did the Kings buſineſſe,</hi> as ruler of the whole Province of <hi>Babylon.</hi>
+                  </p>
+                  <p>Let this ſuffice to have ſpoken by way of interpretation of the words, and now come with mee to conſider the ſpeciall characters of this <hi>Horn,</hi> ſo much inſiſted upon in this Chapter. And the Characters whereby hee is diſtinguiſhed, you ſhall find to be in number thirteen.</p>
+                  <p>Firſt, It proceeded out of THAT ſucceſſor of <hi>Alexander,</hi> which was the <hi>braſen thigh</hi> of <hi>Nebuchadnezzars</hi> Image, and raged moſt againſt the Church of Chriſt, and was of longeſt con<g ref="char:EOLhyphen"/>tinuance, to wit, <hi>Seleucus.</hi>
+                  </p>
+                  <p n="2">2 Hee is not the firſt born of any of that race, but a <hi>younger Brother,</hi> verſ. 9.</p>
+                  <p n="3">
+                     <pb n="40" facs="tcp:118831:23"/>3 Hee is a cruel Prince, as it is written verſ. 23. <hi>hee is a King of hard countenance.</hi>
+                  </p>
+                  <p n="4">4 He is a Prince of deep underſtanding, verſ. 23. <hi>underſtanding dark ſentences.</hi>
+                  </p>
+                  <p n="5">5 Hee is a ſubtile politick Prince, verſ. 24. <hi>through his policy hee ſhall cauſe craft to proſper in his hand,</hi> &amp;c.</p>
+                  <p n="6">6 Hee corrupteth the conſciences and converſations of <hi>many, through Peace and tranquillity, verſ.</hi> 25.</p>
+                  <p n="7">7 Hee makes great preparations againſt <hi>Egypt</hi> in the <hi>South,</hi> and <hi>Perſia</hi> in the <hi>Eaſt,</hi> and againſt <hi>Judea,</hi> the <hi>glory</hi> of all lands, verſ. 9.</p>
+                  <p n="8">8 Hee is a Prince of a proud Spirit, according as it is written verſ. 11. <hi>hee magnified himſelf.</hi>
+                  </p>
+                  <p n="9">9 Hee oppoſeth the people of God in a ſpeciall manner, verſ. 10, 11. <hi>hee magnified himſelf againſt the Hoſt of heaven, and againſt the Prince of the Hoſt.</hi>
+                  </p>
+                  <p n="10">10 Hee profaned the Temple and Ordinances thereof, verſ. 11. By him <hi>the dayly ſacrifice was taken away from the people of God, and hee caſt away the place of the Sanctuary.</hi>
+                  </p>
+                  <p n="11">11 All theſe things were tranſacted, in the <hi>after-part</hi> of the Kingdome of <hi>Alexanders</hi> ſucceſſors, verſ. 23. <hi>And in the after-part of their Kingdom ſhall ariſe a King of fierce coun<g ref="char:EOLhyphen"/>tenance</hi> &amp;c.</p>
+                  <p n="12">12 The manner of his death was by ſome divine ſtroak from Heaven, and not by warre or treachery, verſ. 25. <hi>he ſhall be brok<g ref="char:EOLhyphen"/>en without hand.</hi>
+                  </p>
+                  <p n="13">13 The durance of this Horns prevalency againſt the peo<g ref="char:EOLhyphen"/>ple of God, is expreſſed by the certain number of <hi>artificiall Nights and Daies,</hi> and the determinate cloze of that number, verſ. 14 <hi>unto two thouſand and three hundred Evenings and mornings: then ſhall the Sanctuary be cleanſed.</hi>
+                  </p>
+                  <p>Now haveing opened the moſt obſcure places in the Text, and collected the Characters of <hi>this Horn,</hi> let every judicious Rea<g ref="char:EOLhyphen"/>der ſee and conſider, whether they do beſt ſuite unto <hi>Antiochus Epiphanes,</hi> or to the <hi>Roman-Civil</hi> or Antichriſtian ſtate. And let us not haſtily condemn the <hi>Macchabees</hi> and Saints of that age, who (living whilſt things were tranſacted) applyed this prophecy unto <hi>Antiochus Epiphanes,</hi> nor <hi>Joſephus,</hi> and after
+<pb n="41" facs="tcp:118831:23"/> him <hi>Tremellius</hi> and <hi>Junius,</hi> and others, who have done the like. For who can deny, that this <hi>Antiochus Epiphanes</hi> deſcended of <hi>Seleucus,</hi> whoſe poſterity continued longeſt, and was moſt out<g ref="char:EOLhyphen"/>ragious againſt the people of God, of all other the ſucceſſors of <hi>Alexander?</hi> And is it not manifeſt in ſtories, that hee was <hi>younger Brother of Seleucus Philopater,</hi> &amp; ſon of <hi>Antiochus</hi> the great? Is it not notoriouſly know that he was a moſt cruel Prince, of deep underſtanding and policy? Did he not corrupt and deſtroy many through Peace and tranquillity? Did not hee make great preparations againſt <hi>Egypt</hi> in the <hi>South,</hi> &amp; <hi>Perſia</hi> in the <hi>Eaſt,</hi> &amp; alſo againſt <hi>Judea?</hi> Was not hee exceſſively pround? Inſomuch that hee thought the very waves ſhould obey his command. Did hee not invade <hi>Iudea?</hi> and proſper through his policy? And did hee not pollute the Temple and Temple-worſhip? And was not all this done in the latter part of the Kingdome of the <hi>Selen<g ref="char:EOLhyphen"/>cidae?</hi> And was not hee cut off by Gods own hand, without any hand of man? As for the durance of this Kings rage, and preva<g ref="char:EOLhyphen"/>lency, wee may gather it very neer out of the ſtory of the <hi>Mac<g ref="char:EOLhyphen"/>chabees,</hi> though they principally note out the flux of time, from ſetting up the abomination of deſolation, untill the purifying and cleanſing of the Temple, which was exactly three years and ten daies, or 1103 daies, not giving us the exact day when <hi>Antiochus</hi> entred the Citty, yet it may be probably collected, that it could not be leſſe than 1150 daies, which makes 2300 <hi>Evenings and Mornings,</hi> as <hi>Daniel</hi> did foretell. And who would not conceive that this Prince, unto whom all theſe Characters do ſo exactly agree, is the <hi>Horn</hi> intended by <hi>Daniel?</hi> Let the indif<g ref="char:EOLhyphen"/>ferent Reader judge.</p>
+                  <p>Now for as much as ſome good men do take it, to be meant of the <hi>Roman Civil</hi> State, or Antichriſtian State, or both: let mee propound theſe Queries, to be conſidered of.</p>
+                  <p n="1">1 How can the <hi>Roman Civil</hi> State, or the Antichriſtian State,<note place="margin">1 Quere.</note> be called in Scripture Language, <hi>a younger Brother?</hi> according as it is ſaid of this <hi>Horn?</hi>
+                  </p>
+                  <p n="2">2 How can the <hi>Roman Civil</hi> State, much leſſe the Antichriſ<g ref="char:EOLhyphen"/>tian<note place="margin">2 Quere.</note> State, (which did not ariſe till many years after that) be ſaid to trample upon the Saints, and upon the Temple, and Ordinances, in the firſt of <hi>Cyrus,</hi> ere either the <hi>Roman Civil</hi>
+                     <pb n="42" facs="tcp:118831:24"/> State, or the <hi>Roman</hi> Antichriſtian State had a <hi>Being?</hi> Which yet muſt be granted, if the 2300 daies be counted for years, and that they do begin with <hi>Cyrus.</hi>
+                  </p>
+                  <p n="3">3 Who can averre, that either the <hi>Roman Civil,</hi> or Anti<g ref="char:EOLhyphen"/>chriſtian<note place="margin">3 Quere.</note> State, ſhall be broken without hand? whereas the con<g ref="char:EOLhyphen"/>trary ſeems rather to be true?</p>
+                  <p>Thus have I briefly opened this Chapter, and propoſed the divers interpretations and applications of the ſame, and ſo I ſhall ſhut up this ſubject, with this requeſt unto every one that ſearch<g ref="char:EOLhyphen"/>eth after the truth, to follow the example of thoſe noble Bereans <hi>Act.</hi> 17. 11. (when they read various interpretations of myſti<g ref="char:EOLhyphen"/>call Prophecies;) ſearch the Scriptures whether thoſe things be ſo as they are repreſented, that ſo your faith may not be founded upon humane credit, but upon the eternall truth of God.</p>
+                  <closer>Even ſo be it.</closer>
+               </div>
+            </div>
+            <div type="chapter">
+               <epigraph>
+                  <bibl>
+                     <hi>Dan.</hi> Chap. 9.</bibl>
+                  <q>
+                     <p>23 <hi>At the beginning of thy ſupplications the WORD went forth, and I come to declare</hi> it, <hi>for thou art</hi> 
+                        <note n="z" place="margin">Or [a man] <hi>of deſires.</hi>
+                        </note> 
+                        <hi>deſires:</hi> there<g ref="char:EOLhyphen"/>fore underſtand <hi>that word, and conſider that Viſion.</hi>
+                     </p>
+                     <p>24 <hi>Seventy weeks are determined upon thy people and up<g ref="char:EOLhyphen"/>on</hi> 
+                        <note n="a" place="margin">Heb. <hi>the City of thy holineſſe.</hi>
+                        </note> 
+                        <hi>thy holy City, to reſtrain tranſgreſſion, and to ſeal up ſinnes, and to make reconciliation for iniquity, and to bring in everlaſting righteouſneſſe: and to ſeal the Viſion and the Prophet, and to anoint the</hi> 
+                        <note n="b" place="margin">Or moſt holy.</note> 
+                        <hi>holy of holies.</hi>
+                     </p>
+                     <p>25 <hi>Know thou therefore, and weigh thou,</hi> that <hi>from the going forth of the WORD, to bring back and to build Je<g ref="char:EOLhyphen"/>ruſalem, unto</hi> 
+                        <note n="c" place="margin">Or <hi>the anoin<g ref="char:EOLhyphen"/>ted Prince.</hi>
+                        </note> 
+                        <hi>Meſſias the Prince, are ſeven weeks; and ſixty and two weeks, (the ſtreet and the ditch</hi> 
+                        <note n="d" place="margin">Heb. <hi>Shall return and be built.</hi>
+                        </note> 
+                        <hi>ſhall be built again, and that in the ſtreit of thoſe times.</hi>)</p>
+                     <p>26 <hi>And after thoſe ſixty and two weeks, the Meſſias ſhall be cut off, but not for himſelf: (and in that City and in that Sanctuary</hi> God <hi>will permit to be deſtroyed the people of the Prince that is to come, and their end ſhall be with a flood, and
+<pb n="43" facs="tcp:118831:24"/> at the end of the warre, a finall judgement of deſolati<g ref="char:EOLhyphen"/>ons.</hi>)</p>
+                     <p>27 And hee ſhall confirm the covenant with many, for one week: and in half of that week, hee ſhall cauſe to ceaſe the Sa<g ref="char:EOLhyphen"/>crifice and oblation, (<hi>making it alſo deſolate by the</hi> 
+                        <note n="e" place="margin">Heb <hi>The Wing of abomi<g ref="char:EOLhyphen"/>nations.</hi> Meaning the Roman Army.</note> 
+                        <hi>Army of abominations, even untill the conſumption, even the deter<g ref="char:EOLhyphen"/>mined</hi> conſumption, <hi>be powred forth by the deſtroyer.</hi>)</p>
+                  </q>
+               </epigraph>
+               <p>THis ſealed Prophecy having been long ſince accompliſhed, and by moſt men underſtood to lead us unto the death of our Saviour Jeſus Chriſt, I ſhall not enter upon any large expli<g ref="char:EOLhyphen"/>cation of the words, but briefly as may be, indeavour to clear up from the words of this Text, and other parallell Scriptures, what time wee ought to account for the beginning and ending of <hi>Daniels Seventy weeks.</hi> For wonderfull is the policy of Sathan to raiſe up miſts, that hee may darken our diſcerning of a truth which in it ſelf is moſt clear. In ſo much as wee are now leſſe a<g ref="char:EOLhyphen"/>ble to read the Book diſtinctly, ſince the accompliſhment there<g ref="char:EOLhyphen"/>of, than good old <hi>Simeon</hi> was, a little before. The principall reaſon of which dimneſs, I cannot attribute to any thing ſo much, as our leaning upon humane writers, which hath a ſecret nature of poiſon in it to <hi>narrow</hi> our ſight. So that wee are not able to diſcern things which are eaſily diſcernable in themſelves. Where<g ref="char:EOLhyphen"/>fore it will be wholſome to vomit up this poiſon, laying humane ſtories a ſide, and looking wiſtly at the word of God alone. To <hi>the Law and to the Teſtimony, if they ſpeak not according to this word, it is becauſe there is no morning light in them.</hi> Let every Chriſtian therefore in theſe <hi>Knowing times</hi> put the queſti<g ref="char:EOLhyphen"/>on to his own heart, and accordingly, eccho forth an anſwer thereunto, Whether the word of God alone be not <note n="f" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>ſelf-ſuf<g ref="char:EOLhyphen"/>ficient,</hi> as I may ſay, <hi>That the man of God may be perfect, throughly furniſhed for every good work?</hi> And if ſo, then what need of humane writers, to perfect the Scriptures Chronology?</p>
+               <p>Firſt, Therefore to ſpeak ſomething of the beginning of <hi>Dani<g ref="char:EOLhyphen"/>els</hi>
+                  <note place="margin">
+                     <hi>The beginning of</hi> Daniels <hi>ſe<g ref="char:EOLhyphen"/>venty weeks.</hi>
+                  </note> 
+                  <hi>ſeventy weeks</hi>
+               </p>
+               <p>It is moſt evident from the Text, (as Mr. <hi>Tillinghaſt</hi> well obſerves in <hi>his Knowledge of the Times</hi> pag. 162.) that theſe <hi>ſe<g ref="char:EOLhyphen"/>venty weeks</hi> of <hi>Daniel</hi> muſt take their beginning from ſome
+<pb n="44" facs="tcp:118831:25"/> WORD. Only the Queſtion will ſtill be, what WORD it is, &amp; by <hi>whom</hi> that WORD was ſpoken, from which wee ought to begin our account of <hi>Daniels</hi> weeks?</p>
+               <p>I ſhall firſt ſhew what WORD it is. Our Tranſlators render it <hi>Commandement,</hi> but the Originall calls it a WORD. I know wee commonly put a difference between the word of a ſub<g ref="char:EOLhyphen"/>ject, and of a Prince. Wee call the one a word, and the other wee call a Command, Edict, Ordinance, or Proclamation. I would not ſtrive about words. I put not much in letters and ſyl<g ref="char:EOLhyphen"/>lables. Yet let mee ſay thus much, that Scripture language is ever beſt, and fitteſt for <hi>Syons</hi> Children. And good it were for Princes, that they ſhould know, that God makes no more account of their Commands, Edicts, Ordinances, and Procla<g ref="char:EOLhyphen"/>mations, than of ſo many words. But to ſpeak a little more fully, and directly to the matter of this WORD, what it is? Or about what it is? The Angel gives a clear anſwer to that; that it is a WORD w<hi rend="sup">ch</hi> concerns the return of Gods people, to <hi>Jeruſalem, to built Jeruſalem.</hi> For ſo runne the Angells words, <hi>to cauſe, to return, and to build Jeruſalem.</hi> This is the WORD. And this, <hi>Ezra</hi> calls a VOICE, which <hi>Cyrus</hi> cauſ<g ref="char:EOLhyphen"/>ed to paſſe through all his Dominions, (and put it alſo in wri<g ref="char:EOLhyphen"/>ting,) <hi>that whoſoever</hi> there was of the people of God, he ſhould go up to <hi>Jeruſalem,</hi> which is in <hi>Judah,</hi> and there build the houſe of Jehovah, the God of <hi>Iſrael,</hi> and his God be with him, <hi>Ezr.</hi> 1. 1, 3. And <hi>Cyrus</hi> gives the ground or reaſon of his action, <hi>The Lord God of heaven hath given mee all the Kingdoms of the earth, and hee hath charged mee to build him an houſe at Jeruſalem, which is in Judah.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> And how did <hi>Cyrus</hi> know this?</p>
+               <p>
+                  <hi>Anſw.</hi> I conceive it to be moſt likely, that <hi>Daniel,</hi> who was Ruler of the Province of <hi>Babel,</hi> the third perſon in the Kingdom, and continuing in <hi>Babel</hi> to that time (as hath been ſhewed be<g ref="char:EOLhyphen"/>fore) might have eaſie acceſſe to theſe great Princes. And though <hi>Darius</hi> for his ſeniority and antiquity of his Kingdome, had the preheminence; yet <hi>Daniel</hi> underſtanding by books, to wit, the Book of <hi>Jeremy,</hi> that the years of their Captivity were now expi<g ref="char:EOLhyphen"/>red; and by <hi>Eſaiah,</hi> that this <hi>Cyrus</hi> was the inſtrument de<g ref="char:EOLhyphen"/>ſigned of God for that ſervice, hee makes his application to
+<pb n="45" facs="tcp:118831:25"/> 
+                  <hi>Cyrus,</hi> and acquaints him with the whole mind of God revealed by <hi>Iſaiah,</hi> and that hee ſhould be the man that muſt grant the <hi>Jews</hi> deliverance, and give them authority to build the City, and Temple; leaving great weight upon the building of the houſe of God, as a matter of higheſt concernment, wherein hee moſt deſired the Kings gracious anſwer, Which done, this holy prophet retires himſelf, and goes to God, wreſtling earneſtly with him, for the deliverance of his people, and for the building of the City and Temple. Whereupon God ſends his Angel to aſcertain him of the grant of his deſires, (and therefore calls him, <hi>thou art deſires.</hi> As if he ſhould have ſaid, thou haſt left thy deſires with <hi>Cyrus,</hi> and now alſo with the Lord, and haſt pre<g ref="char:EOLhyphen"/>vailed with both, and therefore gives him that name,) and alſo to reveal unto him how long it ſhould be from that day, unto the death of the promiſed Meſſias.</p>
+               <p>But to return to the point. <hi>Cyrus</hi> cauſed a <hi>VOICE</hi> to paſſe <hi>for cauſing Gods people to return, and build the Houſe of God in Jeruſalem.</hi> And this is the WORD of which the Angel here ſpeaks. And of this <hi>Jeremy</hi> propheſied many years be<g ref="char:EOLhyphen"/>fore <hi>Jer. 29. 10. Thus ſaith Jehovah, that after ſeventy years be accompliſhed at Babylon, I will viſit you:</hi> and there hee makes a great diſtinction. And what means hee by the word <hi>viſit?</hi> The next word tells you. <hi>That I may perform THIS my good word towards you,</hi> and there makes a diſtinction. And what word was that which he calls THIS my good word? The Prophet in the next words gives anſwer, <hi>to cauſe you to return,</hi> (ſaith hee) to this very place, to this <hi>Jeruſalem.</hi> This is the WORD, which God put into <hi>Cyrus</hi> heart to publiſh, according as <hi>Iſaiah</hi> had propheſied of him, <hi>that hee ſhould perform all Gods pleaſure:</hi> ſaying to <hi>Jeruſalem,</hi> thou ſhalt be built, and to the Temple, thy foundation ſhall be laid, <hi>Iſa.</hi> 44. 28.<note place="margin">
+                     <hi>The exact time of the beginning of</hi> Daniels <hi>weeks.</hi>
+                  </note>
+               </p>
+               <p>Having ſhewed more generally the time of <hi>Daniels</hi> weeks, and in whoſe reign they beganne, I ſhall give a more particular anſwer. By which you may take a true eſtimat of the very nick or ſeaſon when they began, which was (as the Angell cer<g ref="char:EOLhyphen"/>tifieth <hi>Daniel</hi> at the beginning of thy ſupplication, the WORD went forth. <hi>Daniel</hi> did not know ſo much, that <hi>Cyrus</hi> had pub<g ref="char:EOLhyphen"/>liſhed ſuch a voice, till the Angell brought him tydings. But
+<pb n="46" facs="tcp:118831:26"/> now ſaith the Angel to <hi>Daniel, know thou, and weigh thou.</hi> Had this WORD been to come forth a long time after, when <hi>Da<g ref="char:EOLhyphen"/>niel</hi> was dead, how could the Angell ſay, weigh thou, know thou? For there is no work, nor device, nor knowledge, nor wiſdome in the grave, <hi>Eccle.</hi> 9. 10. And therefore <hi>ſaith</hi> the Angell, do thou (O <hi>Daniel</hi>) know it, and do thou weigh the matter (as Mer<g ref="char:EOLhyphen"/>chants weigh ſilver in a ballance) if thou wouldſt underſtand. For I aſſure thee the WORD whereof I ſpeak it is already gone out. And if the Angell ſay, <hi>it is gone out,</hi> yea ſo ſoon as ever <hi>Daniel</hi> beganne to ſpeak to God, <hi>the WORD went forth,</hi> what boldneſſe is it, in any man, to ſay, <hi>it is not yet gone forth when Daniel ſaw this Viſion, but was to go forth afterwards?</hi> what Scripture have wee for that?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But it may be ſaid, that <hi>Darius</hi> &amp; <hi>Cyrus</hi> did both reign at one and the ſame time, and <hi>Daniel</hi> ſeems to give preheminence to <hi>Darius,</hi> in as much as hee dates his time from <hi>Darius,</hi> and therefore it may be inquired, from whether of thoſe Kings the word was to go forth? <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I anſwer; It much matters not (as touch<g ref="char:EOLhyphen"/>ing the ſubſtance or matter of the account) whether you ſhould reckon from the one or from the other, ſince both of them reign<g ref="char:EOLhyphen"/>ed together. But yet if you read 2 <hi>Chron.</hi> 36. 22. and <hi>Erz.</hi> 1. 1, 3. it will plainly appear, that this WORD came forth in the name of <hi>Cyrus</hi> King of <hi>Perſia,</hi> and ſo fulfilled the word of the Lord by <hi>Iſaiah</hi> the Prophet.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> Yet it may be further ſaid, that the Angel tels <hi>Daniel,</hi> of the going forth of a WORD, to <hi>build Jeruſalem.</hi> And we do not find any word of building <hi>Jeruſalem,</hi> recorded by <hi>Ezra</hi> in that WORD or Proclamation of <hi>Cyrus.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I anſwer; It is true indeed, that there is no mention made by <hi>Ezra,</hi> of building <hi>Jeruſalem,</hi> nor is it abſolutely neceſſary. It is enough that hee ſpeaks of build<g ref="char:EOLhyphen"/>ing the houſe of Jehovah, in <hi>Jeruſalem.</hi> For who would not conclude, that he who was ſo ſeriouſly carefull, about the building of Gods Houſe, would alſo grant liberty to Jehovahs ſervants, to re-edify their own houſes? But ſecondly I anſwer, that (though <hi>Ezra</hi> make not mention of that particular, of <hi>building Jeruſa<g ref="char:EOLhyphen"/>lem</hi> yet) <hi>Iſaiah</hi> propheſied long before that ſuch a WORD ſhould proceed from <hi>Cyrus</hi> mouth, ſaying to <hi>Jeruſalem,</hi> thou ſhalt be built, and to the Temple, thy foundation ſhall be laid.
+<pb n="47" facs="tcp:118831:26"/> And hath God ſaid it, and ſhall it not come to paſſe? What is become of our faith, if a company of poor Hiſtorians can turn us beſides our path? And thirdly I anſwer, That as <hi>Iſaiah</hi> pro<g ref="char:EOLhyphen"/>pheſied that it ſhould be; ſo the Angel tells <hi>Daniel,</hi> that hee no ſooner ſet himſelf to intercede with God, but the WORD went forth imediately, verſ. 23. And what WORD was it that went forth? Look to the 25 verſ. (where the Angel doth pro<g ref="char:EOLhyphen"/>ceed, to ſhew <hi>Daniel,</hi> what WORD it was, of which hee had ſpoken) and hee ſaith, that it was this very WORD, <hi>to cauſe to return, and to build Jeruſalem.</hi> So that if we will beleeve either <hi>Iſaiah,</hi> or the Angell, <hi>Cyrus</hi> is the man that gave out this WORD, <hi>that Jeruſalem ſhall be built.</hi> Yet ſuppoſe <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> had not been named, nor yet the Temple, (neither by <hi>Dani<g ref="char:EOLhyphen"/>el,</hi> nor by <hi>Ezra</hi>) ſave only this one word, <hi>to cauſe to return,</hi> it had been enough to determine the beginning of <hi>Daniels</hi> ſeventy weeks. Thus much concerning the beginning of <hi>Daniels</hi> weeks.<note place="margin">
+                     <hi>The durance of</hi> Daniels <hi>weeks.</hi>
+                  </note>
+               </p>
+               <p>The next thing to be conſidered is the durance, which is here expreſſed two waies.</p>
+               <p n="1">1 Collectively, giving us the groſſe ſumme, verſ. 24. <hi>Seven<g ref="char:EOLhyphen"/>ty weeks are determined.</hi>
+               </p>
+               <p n="2">2 Diſtributively, dividing the whole into three unequall parts.</p>
+               <p>The firſt diviſion is into ſeven weeks or 49 years, the true diſ<g ref="char:EOLhyphen"/>tance of time, betwixt the going forth of the WORD, and the fi<g ref="char:EOLhyphen"/>niſhing of the Temple, in the ſixth year of <hi>Darius,</hi> which a<g ref="char:EOLhyphen"/>greeth with the <hi>Jews</hi> ſpeech unto Chriſt <hi>Joh. 2. 20. forty ſix years was this Temple a building.</hi> Whereunto add one year and a half from <hi>Cyrus</hi> Proclamation, untill they beganne <note n="g" place="margin">Ezr. 3. 8.</note> to build the temple, &amp; as much more, that the Temple was interrupt<g ref="char:EOLhyphen"/>ed, in the beginning of <note n="h" place="margin">Ezr. 4. 4.</note> 
+                  <hi>Darius,</hi> &amp; it will make up the juſt num<g ref="char:EOLhyphen"/>ber of 49 years, as the Angell here ſpeaketh. From which time, count 62 years, untill Chriſt was 25 years of age, according to the Law <hi>Num.</hi> 4. 3. From which time Chriſt beganne to confirm the Covenant from one week, as the Angel ſpeaketh, and to pre<g ref="char:EOLhyphen"/>pare for the full execution of his office, in his 30 year, current, &amp; then in half of that week (to wit the latter half) he made the ſa<g ref="char:EOLhyphen"/>crifice and oblation to ceaſe, offring up himſelf once for all, in the
+<pb n="48" facs="tcp:118831:27"/> very cloſe of the ſame. And thus you have the totall ſumme, and the integrall parts to agree, and conſtitute the juſt number of 490 years, from the WORD, that went forth from <hi>Cyru,</hi> unto the death of Chriſt.</p>
+               <p>Now the cloſe or end of <hi>Daniels</hi> account is twice expreſ<g ref="char:EOLhyphen"/>ſed.<note place="margin">
+                     <hi>The end of</hi> Da<g ref="char:EOLhyphen"/>niels <hi>weeks.</hi>
+                  </note>
+               </p>
+               <p>Firſt, When the Angell tells <hi>Daniel,</hi> in one groſſe ſumme, that <hi>ſeventy weeks are determined</hi> (verſ. 24.) to end at the death of Chriſt; as all theſe expreſſions do fully import, <hi>to reſtrain tranſgreſſion; to ſeal up ſins, to make reconciliation for iniqui<g ref="char:EOLhyphen"/>ty, and to bring in everlaſting righteouſneſſe.</hi> For without blood there is no remiſſion of ſins, <hi>Heb. 9. 22. We were reconciled to God by the death of his Sonne, Rom.</hi> 5. 10. Therefore it is moſt clear, that the ſeventy weeks did determine at the death and re<g ref="char:EOLhyphen"/>ſurrection of Chriſt: For if Chriſt be not raiſed, our faith is in vain, wee are yet in our ſins, 1 <hi>Cor.</hi> 15. 17.</p>
+               <p>Secondly, The end of theſe ſeventy weeks is expreſſed, when the Angel makes a diſtribution of them into parts; allotting the laſt week unto Chriſts confirming the Covenant, ſaying, <hi>and in half of that week, he ſhall be cut off &amp;c.</hi> That is, he ſhall be whol<g ref="char:EOLhyphen"/>ly ſet apart to the mediators office, during that half, and in the cloſe thereof, ſhall offer up himſelf by death. This half, I take to be the latter half. And ſo the account of the particulars doth a<g ref="char:EOLhyphen"/>gree with the totall ſumme, of ſeventy weeks. Some would have it underſtood of the former half of the week, but that will not agree with the ſumme totall; nor can it ſtand with truth, for in 69 week &amp; an half, is not 70 weeks. And it had been as eaſie, in that language, to have ſaid 69 weeks and an half as to ſay, <hi>in half of that week.</hi> Wherefore I conclude, that thoſe 70 weeks of <hi>Dani<g ref="char:EOLhyphen"/>el,</hi> were terminated in the death of Chriſt, and neither before nor after. Thus much I thought neceſſary to ſpeak of this ninth chap<g ref="char:EOLhyphen"/>ter, in reſpect of the various interpretations, which men do give of the Chronologicall part thereof. Which opens a door to ſome, to queſtion the Doctrinall part, not only of this, but of other Scriptures alſo. For if Scriptures be uncertain or untrue in any reſpect, it will infirm the credit of their Teſtimony in every reſpect.</p>
+               <p>I might have added much more, but that I affect brevity, only
+<pb n="49" facs="tcp:118831:27"/> one word let me adde (which I have pretermitted) to advertiſe thoſe that are not acquainted with the original; that in all the Commiſſion granted to <hi>Nehemiah</hi> (where ſome with over<g ref="char:EOLhyphen"/>much confidence do fix the beginning of <hi>Daniels</hi> weeks) there is not one word of <note n="i" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Command, <note n="k" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Edict, Decree, or <note n="l" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Pro<g ref="char:EOLhyphen"/>clamation once mentioned. And therefore cannot with any co<g ref="char:EOLhyphen"/>lourable ground bee accounted to bee the going forth of that WORD <note n="m" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> of which the Angel ſpeaks to <hi>Daniel.</hi> Wherefore as the Angel commands <hi>Daniel,</hi> let us weigh all interpretations in the ballance of the Sanctuary.</p>
+            </div>
+            <div type="chapter">
+               <epigraph>
+                  <bibl>DAN. Chap. 11.</bibl>
+                  <q>
+                     <p>Verſ. 1. <hi>Now I, in the firſt year of</hi> Darius <hi>the</hi> Mede: [<hi>ſtood] in my ſtation to confirm and ſtrengthen him.</hi>
+                     </p>
+                     <p n="2">2 <hi>And now I will declare to thee the truth: Behold, there ſhall yet ſtand up three Kings in</hi> Perſia, <hi>and the Fourth ſhall be farre richer than all, and by his ſtrength with his riches he ſhall ſtir up all,</hi> even <hi>the Kingdom of</hi> Graecia.</p>
+                     <p n="3">3 <hi>And a mighty King ſhall ſtand up: and he ſhall rule with great Dominion, and ſhall do according to his pleaſure.</hi>
+                     </p>
+                     <p n="4">4 And as he ſhall ſtand up, his Kingdom ſhall be broken, and ſhall be <note n="n" place="margin">
+                           <hi>Hebr.</hi> Hal<g ref="char:EOLhyphen"/>fed, or divided in halfs.</note> divided towards the four Winds of Heaven; but not to his poſterity, nor according to his Dominion wherewith he ruled, for his Kingdom ſhall be plucked up, even for others be<g ref="char:EOLhyphen"/>ſides thoſe.</p>
+                  </q>
+               </epigraph>
+               <p>MY intention is not at this time to inſiſt largely upon this chapter, but only to ſhew from Scripture how many <hi>Perſian</hi> Kings there were, from <hi>Cyrus</hi> unto <hi>Alexander</hi> the firſt <hi>Graecian</hi> Monarch; That men may better judge of the falſhood, and uncer<g ref="char:EOLhyphen"/>tainty of <hi>Graecian</hi> Stories, that have forged thirteen Monarchs, or Kings of <hi>Perſia,</hi> to have reigned after <hi>Cyrus.</hi> But let the Sons of <hi>Sion,</hi> that love the truth, hearken to what God hath ſpoken by the Angel, in the words of <hi>Truth.</hi>
+               </p>
+               <p>Verſ. 1. <hi>Now I,</hi>] Theſe words hold forth to us a deſcription of the Angel that ſpake to <hi>Daniel.</hi> In the former Chapter, wee read that <hi>Daniel</hi> had a Viſion in the third year of <hi>Cyrus</hi> King of <hi>Perſia.</hi> And an Angel appeared to him, to ſhew him what ſhould
+<pb n="50" facs="tcp:118831:28"/> befall in after times. <hi>Now I,</hi>] to wit, the ſame Angel. But what I, or what Angel is it? Even the Angel <hi>that ſtood to confirm and ſtrengthen him.</hi> To ſtrengthen whom? Not <hi>Darius</hi> the <hi>Mede</hi> (for he was at this time dead) but <hi>Cyrus</hi> the Prince of <hi>Perſia,</hi> of whom you read in the twentieth verſe of the former Chapter. And when was this Angel firſt deſigned to this ſervice, to attend at the Court of <hi>Perſia? In the firſt year of</hi> Darius <hi>the Mede.</hi> And now you may read the Angels name, for that An<g ref="char:EOLhyphen"/>gels name was <hi>Gabriel,</hi> who firſt appeared to <hi>Daniel,</hi> in the firſt year o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Darius,</hi> Dan. 9. 21. So that it ſeems, this Angel <hi>Gabriel</hi> was deſigned to attend the <hi>Perſian</hi> Princes Court, and to order the affairs thereof, even from the firſt taking of <hi>Babylon,</hi> during the continuance of that Monarchy, as the words (<hi>Dan.</hi> 10. 20.) ſeem to import, where it is ſaid, <hi>And when I am gone forth,</hi> that is<g ref="char:punc">▪</g> when I depart from the Court of <hi>Perſia,</hi> and am diſcharged from attendance there, <hi>then, behold, the Prince of</hi> Graecia <hi>coming.</hi>
+               </p>
+               <p>Verſ. 2. <hi>I will ſhew thee the truth.</hi>] Why? did the Angel ever ſhew him any thing that was not truth? what then doth he mean to uſe this expreſſion? Doubtleſſe the Angel did fore-ſee, that there would be many falſe and forged relations, and ſtories of theſe <hi>Perſian</hi> Monarchs, which would trouble the Chronolo<g ref="char:EOLhyphen"/>gie of the Scriptures<g ref="char:punc">▪</g> Now that he might fortifie the Sons of <hi>Sion,</hi> againſt ſuch kinde of Forgeries, he gives unto <hi>Daniel</hi> a perfect and true relation of the <hi>Perſian</hi> Monarchs, that he might leave it upon Record to all poſterity, ſaying, <hi>and now I will ſhew thee the truth;</hi> where he makes a great diſtinction. Now what is this <hi>Truth</hi> which the Angel declares to <hi>Daniel? Behold</hi> (ſaith he) <hi>there ſhall yet ſtand up three Kings in Perſia.</hi> And are theſe all? No, there ſhall <hi>ſtand up a fourth after them,</hi> which ſhall farre exceed for wealth, <hi>he ſhall be farre richer than all.</hi> But ſhall there be no more Princes after <hi>Cyrus,</hi> but four? Doubt<g ref="char:EOLhyphen"/>leſſe, if there ſhould have been any more, the Angel that came to tell <hi>Daniel</hi> the truth, would not have concealed the ſame. But the words enſuing, do intimate that this Fourth was the laſt, be<g ref="char:EOLhyphen"/>cauſe it it ſaid, that he by <hi>his ſtrength with riches ſhould ſtirre up, or provoke the Prince of Graecia</hi> (to wit, <hi>Alexander</hi> of <hi>Macedon</hi>) to his own ruine.</p>
+               <pb n="51" facs="tcp:118831:28"/>
+               <p>Verſ. 3. <hi>And a mighty King ſhall ſtand up, &amp;c.</hi>] Theſe words yeeld us a deſcription of this Prince of <hi>Graecia,</hi> from his valour, and from the greatneſs of his Dominion, and irreſiſta<g ref="char:EOLhyphen"/>bleneſs of his powe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. His Valour, expreſſed in theſe words, <hi>a mighty King.</hi> The greatneſs of his Dominion is expreſſed in the next words, <hi>He ſhall rule with great Dominion.</hi> His Do<g ref="char:EOLhyphen"/>minion ſhall extend it ſelf farre and wide over the earth; and the irreſiſtableneſs of his power is implyed in the next words, <hi>Hee ſhall do according to his pleaſure.</hi> Theſe are as ſo many Cha<g ref="char:EOLhyphen"/>racters of <hi>Alexander</hi> the firſt Prince of <hi>Graecia,</hi> whereof I have ſpoken more at large in the eighth Chapter.</p>
+               <p>Verſ. 4. <hi>And when he ſhall ſtand up he ſhall be broken, &amp;c.</hi> Theſe words yeeld a further deſcription of the <hi>Graecian</hi> Monarchy, by the death of that puiſſant Prince <hi>Alexander,</hi> and the diviſion of the Kingdom into four, after his death. But ſhall this diviſion be made to <hi>Alexanders</hi> poſterity? Or ſhall they attain to the like power of this firſt Prince? Verily no; it <hi>ſhall not be to his poſterity, nor according to his dominion, wherewith he ruled.</hi> And to the ſame purpoſe it is ſaid, that <hi>four Kingdoms ſhall ſtand out of the Nation, but not with his power,</hi> Dan. 8. 22. and if out of the Nation, then not out of <hi>Alexanders</hi> poſterity, as it is ſaid in this Chapter. Thus you ſee the great and obſerva<g ref="char:EOLhyphen"/>ble <hi>truth,</hi> which the Angel would have <hi>Daniel</hi> to minde. Now let every underſtanding Chriſtian weigh the Angels words, and the words of <hi>Greek</hi> Hiſtorians. The Angel tells you of a truth, that there ſhall be but four Princes in <hi>Perſia</hi> after <hi>Cyrus,</hi> untill <hi>Alexander, Herodotus, Diodorus Siculus, Metaſthenes,</hi> and other <hi>Greek</hi> Writers, and others that follow after them, ſay, there were thirteen from <hi>Cyrus</hi> to <hi>Alexander,</hi> chuſe you whether you will beleeve.</p>
+               <p>Obj. <hi>But this place in</hi> Daniel <hi>doth not ſay, there were four, and no more?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The Angel ſaith, he came to tell <hi>Daniel</hi> the <hi>truth.</hi> And if he told him but a peece of the truth, what were it leſſe than Jeſuitical equivocation, or mental reſervation? which we have no ground to imagine of the holy Angel. And to what end ſhould the<g ref="char:punc">▪</g> Angel tell him of four, and no more, if there were thirteen, as Hiſtorians would make us beleeve?</p>
+               <pb n="52" facs="tcp:118831:29"/>
+               <p>But ſecondly I anſwer; That the Angel doth in effect ſay, there were no more. For if there were but three after <hi>Cyrus,</hi> and after thoſe three a fourth, exceeding in wealth; and if this fourth did provoke the King of <hi>Graecia</hi> (to wit, <hi>Alexander,</hi> as the deſcrip<g ref="char:EOLhyphen"/>tion doth ſhew it to be) who was potent and irreſiſtable, and overcame the Ram of <hi>Perſia,</hi> as you have it in the eighth Chap<g ref="char:EOLhyphen"/>ter; then it is manifeſt there was no more. And the Angel in his whole relation (conſidered together) doth in effect ſay, there was no more but four Princes of <hi>Perſia,</hi> after <hi>Cyrus,</hi> until <hi>Alex<g ref="char:EOLhyphen"/>ander.</hi>
+               </p>
+               <p>Theſe few words I have thought good to adde, as an explica<g ref="char:EOLhyphen"/>tion of ſome Chronological points, for the benefit of ſuch as can<g ref="char:EOLhyphen"/>not ſpend ſo much time, to ſearch out the matter themſelves; and the rather, becauſe I have met with ſome of late that have been led aſide, to give too much credit to Human (I may ſay pro<g ref="char:EOLhyphen"/>phane) Writers.</p>
+               <p>
+                  <hi>Daniel</hi> having fully declared the ſad calamities of the Church under <hi>Antiochus Epiphanes</hi> in the eighth Chapter, and the fur<g ref="char:EOLhyphen"/>ther calamities they ſhould ſuffer by the <hi>Romans</hi> in the ninth Chapter, he ſeeks the face of God in behalf of his people three whole weeks of daies, in the tenth Chapter. Whereupon God was pleaſed to reveal unto him, in this his laſt Viſion, the utmoſt durance of that <hi>Perſian</hi> Monarchy under which the people of God ſhould ſuffer ſo much. Which being done, the Lord tells him, what his people ſhould yet ſuffer in the daies of thoſe <hi>Perſian</hi> Princes after <hi>Antiochus Epiphanes,</hi> from verſ. 14. to the 18.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> deſcribing thoſe <hi>Perſian</hi> Princes by ſome eminent Characters. As 1 That the King of <hi>Syria</hi> in the North, and the King of <hi>Aegypt</hi> in the South, ſhould enter into a League. 2 That the King of the South ſhould give his Daughter in Marriage to the King of the North. And 3 That this King of <hi>Aegypt</hi> in the South, ſhould take away his Daughter from the King of the North, and give her to another; all which is expreſſed in the ſixth verſe. And accordingly you may read it was effected, 1 <hi>Mac.</hi> 10. 51, &amp;c. <hi>Alexander</hi> King of <hi>Syria,</hi> ſent to <hi>Ptolomy</hi> King of <hi>Aegypt</hi> to make a <hi>League.</hi> And <hi>Ptolomy</hi> King of <hi>Aegypt</hi> in the South, gave his Daughter <hi>Cleopatra</hi> in Marriage to <hi>Alexander</hi> King of <hi>Syria</hi> in the North. But afterwards, the ſaid <hi>Ptolomy</hi> took his
+<pb n="53" facs="tcp:118831:29"/> Daughter from <hi>Alexander,</hi> and gave her to <hi>Demetrius Nicanor</hi> the Son of <hi>Demetrius Soter,</hi> 1 Maccha. 11. 12. 4 By this means, the Kingdom devolved from <hi>Alexander</hi> and his Poſte<g ref="char:EOLhyphen"/>rity, according as <hi>Daniel</hi> had ſpoken, verſ. 6. <hi>Neither ſhall hee ſtand, nor his arm.</hi> That is, neither ſhall <hi>Alexander,</hi> nor his Poſterity continue to manage the Government of <hi>Syria.</hi> And ac<g ref="char:EOLhyphen"/>cordingly it ſo came to paſs, as ſtories manifeſt. Thus having gi<g ref="char:EOLhyphen"/>ven a deſcription of the <hi>robbers</hi> of Gods people, he proceeds to ſhew what miſchief they ſhould do to the Church, as we may read from verſ. 14. to the 18. Telling the Prophet, that after thoſe troubles are over, and that Monarchy expired (the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> ſucceeding) there ſhall ſtand up a <hi>raiſer of Taxes,</hi> ver. 20. Touching which raiſer of Taxes wee have an account given us, <hi>Luk.</hi> 2. 1. where it is ſaid, <hi>That</hi> Auguſtus Caeſar <hi>made a Decree to tax all the world.</hi> Him I conceive to bee that raiſer of taxes ſpoken of in <hi>Daniel.</hi>
+               </p>
+               <p>After whom <hi>Daniel</hi> tells us, that a <hi>vile perſon</hi> ſhall ariſe, verſ. 21. (which I ſuppoſe was <hi>Nero</hi>) who ſhould obtain, or ſtrengthen his Kingdom by <hi>flatteries,</hi> or ſly and ſubtill inſi<g ref="char:EOLhyphen"/>nuations<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> (as the word ſignifies) whereby he gathers a ſtrong part unto himſelf, eſpecially of the Souldiery, for that is the uſual manner of ſuch cruel Tyrants, who commonly are fair and ſmooth<g ref="char:EOLhyphen"/>ſpoken men, until they have gotten themſelves into the Saddle. So did <hi>Jehu.</hi> But when once he was got into the Chariot, <note n="b" place="margin">See <hi>Jehu<g ref="char:punc">▪</g>
+                     </hi> in his proper colours.</note> lo, he drives furiouſly, 2 <hi>King.</hi> 9. 20. much like <hi>Phaeton,</hi> of whom the Poets fable, that he obtained of his Father <hi>Phoebus</hi> the gui<g ref="char:EOLhyphen"/>dance of the Chariot of the Sun, for one day. But what through his unskilfulneſs to manage the <hi>reigns,</hi> and the unrulineſs of the Horſes, he overthrew his Chariot, and ſet the world on <hi>fire.</hi> The Moral of which is good. This <hi>Nero</hi> was a cruel Tyrant, and did much miſchief to the Church, and in the days of <hi>Veſpaſian,</hi> both the City and Temple were deſtroyed. And thus farre the Prophet proceeds in this eleventh Chapter (as I conceive) and no further. For though ſome good men apply this Prophecy unto the <hi>Roman Civil or Antichriſtian</hi> ſtate, extending the ſame unto the end of the <hi>fourth Monarchy,</hi> yet I cannot ſee how that can ſtand with the words of the text, which ſay, that the King of the North, and the King of the South ſhall have a <hi>League.</hi> 
+                  <note n="c" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> And
+<pb n="54" facs="tcp:118831:30"/> the Kings Daughter of the South ſhall go to the King of the North to make agreement. Is it credible that the Pope, or Em<g ref="char:EOLhyphen"/>perour ſhould make a <hi>League</hi> with the Turk? much more un<g ref="char:EOLhyphen"/>likely it is that they ſhould make <hi>inter-marriages,</hi> either with the <hi>Turks</hi> Daughter, or the <hi>Jews</hi> Daughter, whether ſoe<g ref="char:EOLhyphen"/>ver you ſhall imagine to be meant by the King of the South. As for the Pope (if he ſhould be thought to be the King of the North) it is not lawful for him to marry. Neither can it proba<g ref="char:EOLhyphen"/>bly be imagined either of the <hi>Roman</hi> Emperor, or of the <hi>Turk.</hi> Wherefore I cannot conſent to ſuch an interpretation, but rather adhere to the former, unto which it doth far better ſuit.</p>
+               <p>Obj. <hi>But it may be ſaid, that the Angel tells</hi> Daniel, (<hi>Dan.</hi> 12. 7.) that all theſe things ſhall be finiſhed, <hi>after a time, times, and half a time, and how then can we underſtand it of</hi> Jeru<g ref="char:EOLhyphen"/>ſalems <hi>deſtruction, which did precede that time, times, and half a time?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I confeſs the Objection ſeemed to me of weight, untill I weighed the words of the text, and the form of ſpeech. But thus I now apprehend the matter. One of the Angels asked the man clnathed with linnen, which was upon the waters of the River [<hi>Hiddekel</hi>]; how long it was to the end of thoſe Wonders. In which queſtion (I conceive) is comprehended all <hi>Daniels</hi> Won<g ref="char:EOLhyphen"/>ders, as well in the ſeventh Chapter, as in the other Chapters fol<g ref="char:EOLhyphen"/>lowing. To which, the man cloathed with linnen, by a ſolemn Oath, gives anſwer; That the Churches calamity ſhould continue for a time, times, and half a time. And there hee makes a diſtin<g ref="char:EOLhyphen"/>ction. <hi>But when HE</hi> (ſaith the man) <hi>ſhall have accompliſhed to break the</hi> 
+                  <note n="d" place="margin">
+                     <hi>Hebr.</hi> To break the hand.</note> 
+                  <hi>power of the holy people.</hi> By <hi>He,</hi> I underſtand <hi>Veſ<g ref="char:EOLhyphen"/>paſian</hi> and <hi>Titus,</hi> By power of the holy people, I underſtand the ruine of that State, and people of the <hi>Jews,</hi> which are in Scrip<g ref="char:EOLhyphen"/>ture phraſe called the Holy people, or the people of holineſs, or conſecration. Now when the adverſary hath thus broken their hand and power, <hi>then ſhall all thoſe things be finiſhed.</hi> All what things? namely, all thoſe things whereof hee had ſpoken in the fore-going Chapter.</p>
+               <p>This ambiguity in the anſwer conſidered, and that no <hi>Epocha</hi> was prefixed, for the beginning of that <hi>time, times, and half a time,</hi> nor any determinate period ſet for the ending of the ſame,
+<pb n="55" facs="tcp:118831:30"/> (as it had been done in the former Viſions, chap. 8. &amp; 9. &amp; 11.) this puts <hi>Daniel</hi> upon a ſecond <hi>Querie.</hi> Not, <hi>when ſhall be the end:</hi> but, <hi>what doth that after-part</hi> of his Viſions mean? whereunto the man in linnen gives anſwer. That it was a ſecret to be <hi>ſealed,</hi> till the <note n="e" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>ſeaſon</hi> of the end. <hi>And none of the wic<g ref="char:EOLhyphen"/>ked ſhall underſtand, but the wiſe ſhall underſtand.</hi> Namely, when the ſeaſon of the end ſhall come, that Chriſt begins to draw out his <hi>laſt lines,</hi> as I may ſay, but not till then. But then in the next words he gives <hi>Daniel</hi> an Epocha, from whence he may be<g ref="char:EOLhyphen"/>gin the accounts following (though he had ſealed that <hi>time, times, and half a time,</hi> till afterwards.) The <hi>Epocha</hi> given, is the take<g ref="char:EOLhyphen"/>ing <hi>away of the daily ſacrifice, and ſetting up of the abomination which makes deſolate.</hi> Now that you may better underſtand what this means, conſider that you have theſe words three times uſed in <hi>Daniel.</hi> Firſt, theſe words are mentioned, <hi>Dan.</hi> 8. 13. where the wickedneſs of <hi>Antiochus Epiphanes</hi> is deſcribed, in ſubver<g ref="char:EOLhyphen"/>ting Gods pure Worſhip, and ſetting up the <hi>Image</hi> of <hi>Jupiter Olympius</hi> in the Temple. 2. Theſe words are again uſed, <hi>Dan.</hi> 9. 27. &amp; 11. 31. where he ſpeaks of the deſtruction of the City and Temple: by the abominable <hi>Roman</hi> Army, and the total re<g ref="char:EOLhyphen"/>moval of Temple-worſhip. For ſo our Saviour interprets that place of <hi>Daniel,</hi> Mat. 24. 15. Mark 13. 14. Luk. 21. 20. and <hi>Daniel</hi> ſecretly gives a hint of it, <hi>Dan.</hi> 12. 7. But, 3 Theſe words are uſed, <hi>Dan.</hi> 12. 11. which I conceive to be ſpoken of another time, many years after the City and Temple, and Tem<g ref="char:EOLhyphen"/>ple-worſhip were deſtroyed. And the man cloathed in linnen purpoſely uſeth the ſame expreſſions as before, to ſhew us, that there ſhould be ſomewhat of the like nature (as formerly) but much more Spiritual, that ſhould be the <hi>Epocha</hi> of the Churches Spiritual captivity. And what may that be? <hi>Anſ.</hi> For my own part, I conceive it to bee that abominable deſolating Idol the <hi>Maſſe,</hi> for the living, and for the dead, joyned with interceſſion of Saints, by which the vertue and efficacy of Chriſts death is made voyd, which is <hi>the taking away of the daily ſacrifice.</hi> And this began about the year 383. whereunto adde <hi>Daniels</hi> firſt number, 1290. and it will lead you down unto the end of all worldly I<g ref="char:EOLhyphen"/>mage. Government, and the Churches troubles together, <hi>Anno</hi> 1673. But if unto that Epocha you adde <hi>Daniels</hi> ſecond myſti<g ref="char:EOLhyphen"/>call
+<pb n="56" facs="tcp:118831:31"/> number, 1335. it will carry you (as I apprehend) unto the time of the <hi>New Jeruſalems</hi> coming down from Heaven, or the perfect conſtitution and ſettlement of Chriſts Government all the world over. In reſpect whereof there is a ſpeciall and peculiar bleſſing promiſed to ſuch as live unto that time.</p>
+               <p>Thus have I briefly given you the application of this eleventh Chapter, and an explication of <hi>Daniels</hi> myſtical numbers, ha<g ref="char:EOLhyphen"/>ving not leaſure to inlarge upon the ſame.</p>
+               <p>Since I finiſhed this little labour, I met with an old Jeſuitical <hi>Tenet,</hi> concerning the durance of Antichriſts reign, for the ſpace of three years and an half, newly brought forth, and ſent into the world under the <hi>Tutelage</hi> of him, whoſe Government he makes to be the Beaſts ſeventh Head. Concerning which he Propheſieth, that it ſhall be as large as any (if not as all) the other Six Govern<g ref="char:EOLhyphen"/>ments, but much larger <note n="f" place="margin">This Pro<g ref="char:EOLhyphen"/>phecie deſerves thanks; none of <hi>Ahabs</hi> Pro<g ref="char:EOLhyphen"/>phets could have ſpoken better.</note> than the <hi>Roman.</hi> This little ſtripling (as he calls himſelf) is bold to throw one of his <hi>Stones</hi> at the head of <hi>Daniel,</hi> or of <hi>John,</hi> or both. Concerning whom he ſaith, <hi>That though</hi> Daniel <hi>ſeems to ſay,</hi> that the Ten Horns or Kings <hi>ſhall ariſe out of the Sixth Head, or Fourth Beaſt, in</hi> chap. 7. ver. 23, 24. <hi>yet compared with other Scriptures, it will plainly appear, that they will riſe out of the ſeventh head, &amp;c.</hi> To prove which, he quoteth <hi>Rev.</hi> 17. 10. where <hi>John</hi> doth not ſay that the Ten Horns ſprang out of the Seventh Head, nor doth <hi>Daniel</hi> ſay, they did ariſe out of the Sixth Head. What then ſhall we ſay? Was <hi>Daniel</hi> or <hi>John</hi> miſtaken? or both? Or rather, doth not this ſtripling miſtake both <hi>Daniel</hi> and <hi>John?</hi> It is an uſual ſaying, We may gueſs at the man by his foot. I only make menti<g ref="char:EOLhyphen"/>on<note place="margin">Ex ungue leo<g ref="char:EOLhyphen"/>nem.</note> of him by way of Caution, to ſuch as meet with him, elſe I would not ſo much as have mentioned his <hi>Tenet;</hi> the Book is cal<g ref="char:EOLhyphen"/>led, <hi>A brief Survey of the Prophetical and Evangelical events of the laſt times,</hi> which ſeems to be of the <hi>Off-ſpring</hi> of <hi>Babel;</hi> and bleſſed be he that daſheth her little ones againſt the rock.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA:</head>
+            <p>PAge 31. l. 20. for Macedon read Aegypt. p. 32. l. 17. <hi>dele</hi> one of the thighs of <hi>Nebuchadnezzars</hi> Image, l. 20. inſtead of ſtood but upon one thigh, r. ſtood upon his two thighs, but more eſpecially upon one brazen thigh.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
